@@ -26,5 +26,10 @@ Existe uma variação na presença das alunas conforme a escolha da atividade, v
 Como de se esperar, em dias mais frios a taxa de presença é menor do que em dias ensolarados ou nublados.
 
 
+# 📋 Modelo Preditivo
+
+**Resumo dos resultados**:
+
+- Acurácia: 61.54% (representa a proporção de todas as previsões corretas).
 
 

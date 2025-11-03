@@ -15,7 +15,7 @@
 - ## 🔍 Principais Insights
 
 - Taxa de Presença por Tipo de Exercicío
-- 
+ ![atividades-extensionistas-gumendes](img/taca_presenca_exercicio.png)
 
 
 

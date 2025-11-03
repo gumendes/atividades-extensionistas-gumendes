@@ -14,8 +14,13 @@
 
 - ## 🔍 Principais Insights
 
-- Taxa de Presença por Tipo de Exercicío
+- **Taxa de Presença por Tipo de Exercicío**
  ![atividades-extensionistas-gumendes](img/taca_presenca_exercicio.png)
+
+Existe uma variação na presença das alunas conforme a escolha da atividade, vale entender se não é possível alterar as atividades de menor engajamento.
+
+
+
 
 
 

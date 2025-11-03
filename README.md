@@ -32,4 +32,14 @@ Como de se esperar, em dias mais frios a taxa de presença é menor do que em di
 
 - Acurácia: 61.54% (representa a proporção de todas as previsões corretas).
 
+  # 📋 Considerações Finais
+
+  O Projeto teve como objetivo desmonstrar a aplicação de recursos de ciencia de dados no incentivo e principalmente melhora a adesão de idosos a atividades fisicas.
+  A partir das análises exploratórias dos dados, foi possível entender o comportamento das participantes e o que leva à presença no dia a dia, sua satisfação e engajamento com as aulas e atividades propostas. Os gráficos desenvolvidos demonstram padrões de frequencia e de preferencia por determinadas atividades, permitindo identificar quais atividades tem maior participação.
+  A gamificação propos para o projeto uma forma lúdica e motivadora de aumentas o engajamento, e fomentando uma competição saudável entre as alunas.
+  Além disso, a implementação do modelo preditivo possibilitou estimar quando as alunas poderiam faltar, permitindo que a professora entrasse em contato, agindo antecipadamente, além de gerar um senso de pertencimento a comunidade, o que reduz as chances de ausencias.
+  O dashboard foi a integração de todos esses elementos, uma ferramenta simples que possibilitou que as alunas usufruissem de algo tecnologico e que a professora pudesse dirigir as aulas com maiores clareza do que agrada ou não a comunidade.
+  O trabalho demonstra o potencial das ferramentas de analise de dados no contexto social e comunitário, demonstrando como essas ferramentas podem contribuir para promoçaõ de saúde, qualidade de vida e bem-estar.
+  Em resumo, o projeto cumpriu seus objetivos propostos, colocando a ciencia de dados e suas ferramentas em prol da comunidade.
+
 

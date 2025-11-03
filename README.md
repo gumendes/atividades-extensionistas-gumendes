@@ -14,6 +14,7 @@
 
 - ## 🔍 Principais Insights
 
+- Taxa de Presença por Tipo de Exercicío
 - 
 
 

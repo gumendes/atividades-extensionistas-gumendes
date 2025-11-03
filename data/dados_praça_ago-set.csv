@@ -1,0 +1,521 @@
+id_aluna;Nome;idade;sexo;data;dia_semana;Hor rio;tipo_exercicio;presente;clima;duracao_min;avaliacao_aula
+A001;Maria;68;F;2025-08-01;Sexta-feira;07:00;Caminhada;0;Frio;0;0
+A001;Maria;68;F;2025-08-04;Segunda-feira;07:00;Gin stica;0;Frio;0;0
+A001;Maria;68;F;2025-08-06;Quarta-feira;07:00;Alongamento;1;Frio;39;5
+A001;Maria;68;F;2025-08-08;Sexta-feira;07:00;Jogo com bola;1;Frio;42;4
+A001;Maria;68;F;2025-08-11;Segunda-feira;07:00;Gin stica;1;Frio;29;3
+A001;Maria;68;F;2025-08-13;Quarta-feira;07:00;Alongamento;1;Frio;45;5
+A001;Maria;68;F;2025-08-15;Sexta-feira;07:00;Jogo com bola;0;Frio;0;0
+A001;Maria;68;F;2025-08-18;Segunda-feira;07:00;Caminhada;0;Frio;0;0
+A001;Maria;68;F;2025-08-20;Quarta-feira;07:00;Alongamento;1;Nublado;23;5
+A001;Maria;68;F;2025-08-22;Sexta-feira;07:00;Gin stica;1;Nublado;0;0
+A001;Maria;68;F;2025-08-25;Segunda-feira;07:00;Caminhada;1;Frio;27;4
+A001;Maria;68;F;2025-08-27;Quarta-feira;07:00;Jogo com bola;1;Frio;48;3
+A001;Maria;68;F;2025-08-29;Sexta-feira;07:00;Caminhada;1;Frio;41;5
+A001;Maria;68;F;2025-09-01;Segunda-feira;07:00;Gin stica;1;Nublado;54;4
+A001;Maria;68;F;2025-09-03;Quarta-feira;07:00;Alongamento;1;Nublado;23;5
+A001;Maria;68;F;2025-09-05;Sexta-feira;07:00;Jogo com bola;1;Ensolarado;31;5
+A001;Maria;68;F;2025-09-08;Segunda-feira;07:00;Gin stica;0;Nublado;0;0
+A001;Maria;68;F;2025-09-10;Quarta-feira;07:00;Alongamento;0;Frio;0;0
+A001;Maria;68;F;2025-09-12;Sexta-feira;07:00;Caminhada;0;Frio;0;0
+A001;Maria;68;F;2025-09-15;Segunda-feira;07:00;Gin stica;1;Nublado;47;4
+A001;Maria;68;F;2025-09-17;Quarta-feira;07:00;Jogo com bola;1;Frio;26;4
+A001;Maria;68;F;2025-09-19;Sexta-feira;07:00;Alongamento;1;Nublado;36;5
+A001;Maria;68;F;2025-09-22;Segunda-feira;07:00;Gin stica;0;Ensolarado;0;0
+A001;Maria;68;F;2025-09-24;Quarta-feira;07:00;Jogo com bola;1;Frio;31;5
+A001;Maria;68;F;2025-09-26;Sexta-feira;07:00;Alongamento;0;Frio;0;0
+A001;Maria;68;F;2025-09-29;Segunda-feira;07:00;Gin stica;1;Nublado;57;4
+A002;Ana;54;F;2025-08-01;Sexta-feira;07:00;Caminhada;1;Frio;32;5
+A002;Ana;54;F;2025-08-04;Segunda-feira;07:00;Gin stica;1;Frio;47;4
+A002;Ana;54;F;2025-08-06;Quarta-feira;07:00;Alongamento;1;Frio;23;4
+A002;Ana;54;F;2025-08-08;Sexta-feira;07:00;Jogo com bola;0;Frio;0;0
+A002;Ana;54;F;2025-08-11;Segunda-feira;07:00;Gin stica;1;Frio;23;3
+A002;Ana;54;F;2025-08-13;Quarta-feira;07:00;Alongamento;1;Frio;29;5
+A002;Ana;54;F;2025-08-15;Sexta-feira;07:00;Jogo com bola;1;Frio;26;3
+A002;Ana;54;F;2025-08-18;Segunda-feira;07:00;Caminhada;1;Frio;58;4
+A002;Ana;54;F;2025-08-20;Quarta-feira;07:00;Alongamento;1;Nublado;30;3
+A002;Ana;54;F;2025-08-22;Sexta-feira;07:00;Gin stica;1;Nublado;36;4
+A002;Ana;54;F;2025-08-25;Segunda-feira;07:00;Caminhada;1;Frio;42;5
+A002;Ana;54;F;2025-08-27;Quarta-feira;07:00;Jogo com bola;0;Frio;0;0
+A002;Ana;54;F;2025-08-29;Sexta-feira;07:00;Caminhada;1;Frio;20;4
+A002;Ana;54;F;2025-09-01;Segunda-feira;07:00;Gin stica;0;Nublado;0;0
+A002;Ana;54;F;2025-09-03;Quarta-feira;07:00;Alongamento;1;Nublado;27;4
+A002;Ana;54;F;2025-09-05;Sexta-feira;07:00;Jogo com bola;1;Ensolarado;21;3
+A002;Ana;54;F;2025-09-08;Segunda-feira;07:00;Gin stica;0;Nublado;0;0
+A002;Ana;54;F;2025-09-10;Quarta-feira;07:00;Alongamento;1;Frio;27;5
+A002;Ana;54;F;2025-09-12;Sexta-feira;07:00;Caminhada;1;Frio;33;3
+A002;Ana;54;F;2025-09-15;Segunda-feira;07:00;Gin stica;1;Nublado;40;3
+A002;Ana;54;F;2025-09-17;Quarta-feira;07:00;Jogo com bola;1;Frio;52;4
+A002;Ana;54;F;2025-09-19;Sexta-feira;07:00;Alongamento;0;Nublado;0;0
+A002;Ana;54;F;2025-09-22;Segunda-feira;07:00;Gin stica;0;Ensolarado;0;0
+A002;Ana;54;F;2025-09-24;Quarta-feira;07:00;Jogo com bola;1;Frio;33;3
+A002;Ana;54;F;2025-09-26;Sexta-feira;07:00;Alongamento;0;Frio;0;0
+A002;Ana;54;F;2025-09-29;Segunda-feira;07:00;Gin stica;0;Nublado;0;0
+A003;Helena;71;F;2025-08-01;Sexta-feira;07:00;Caminhada;1;Frio;30;3
+A003;Helena;71;F;2025-08-04;Segunda-feira;07:00;Gin stica;1;Frio;27;4
+A003;Helena;71;F;2025-08-06;Quarta-feira;07:00;Alongamento;1;Frio;21;4
+A003;Helena;71;F;2025-08-08;Sexta-feira;07:00;Jogo com bola;0;Frio;0;0
+A003;Helena;71;F;2025-08-11;Segunda-feira;07:00;Gin stica;1;Frio;53;4
+A003;Helena;71;F;2025-08-13;Quarta-feira;07:00;Alongamento;0;Frio;0;0
+A003;Helena;71;F;2025-08-15;Sexta-feira;07:00;Jogo com bola;0;Frio;0;0
+A003;Helena;71;F;2025-08-18;Segunda-feira;07:00;Caminhada;1;Frio;57;5
+A003;Helena;71;F;2025-08-20;Quarta-feira;07:00;Alongamento;1;Nublado;55;5
+A003;Helena;71;F;2025-08-22;Sexta-feira;07:00;Gin stica;0;Nublado;0;0
+A003;Helena;71;F;2025-08-25;Segunda-feira;07:00;Caminhada;0;Frio;0;0
+A003;Helena;71;F;2025-08-27;Quarta-feira;07:00;Jogo com bola;0;Frio;0;0
+A003;Helena;71;F;2025-08-29;Sexta-feira;07:00;Caminhada;0;Frio;0;0
+A003;Helena;71;F;2025-09-01;Segunda-feira;07:00;Gin stica;1;Nublado;48;3
+A003;Helena;71;F;2025-09-03;Quarta-feira;07:00;Alongamento;0;Nublado;0;0
+A003;Helena;71;F;2025-09-05;Sexta-feira;07:00;Jogo com bola;1;Ensolarado;43;4
+A003;Helena;71;F;2025-09-08;Segunda-feira;07:00;Gin stica;1;Nublado;23;5
+A003;Helena;71;F;2025-09-10;Quarta-feira;07:00;Alongamento;0;Frio;0;0
+A003;Helena;71;F;2025-09-12;Sexta-feira;07:00;Caminhada;1;Frio;43;3
+A003;Helena;71;F;2025-09-15;Segunda-feira;07:00;Gin stica;0;Nublado;0;0
+A003;Helena;71;F;2025-09-17;Quarta-feira;07:00;Jogo com bola;1;Frio;29;5
+A003;Helena;71;F;2025-09-19;Sexta-feira;07:00;Alongamento;1;Nublado;25;3
+A003;Helena;71;F;2025-09-22;Segunda-feira;07:00;Gin stica;1;Ensolarado;48;5
+A003;Helena;71;F;2025-09-24;Quarta-feira;07:00;Jogo com bola;0;Frio;0;0
+A003;Helena;71;F;2025-09-26;Sexta-feira;07:00;Alongamento;0;Frio;0;0
+A003;Helena;71;F;2025-09-29;Segunda-feira;07:00;Gin stica;1;Nublado;47;5
+A004;Sonia;62;F;2025-08-01;Sexta-feira;07:00;Caminhada;1;Frio;41;4
+A004;Sonia;62;F;2025-08-04;Segunda-feira;07:00;Gin stica;0;Frio;0;0
+A004;Sonia;62;F;2025-08-06;Quarta-feira;07:00;Alongamento;0;Frio;0;0
+A004;Sonia;62;F;2025-08-08;Sexta-feira;07:00;Jogo com bola;0;Frio;0;0
+A004;Sonia;62;F;2025-08-11;Segunda-feira;07:00;Gin stica;1;Frio;45;4
+A004;Sonia;62;F;2025-08-13;Quarta-feira;07:00;Alongamento;0;Frio;0;0
+A004;Sonia;62;F;2025-08-15;Sexta-feira;07:00;Jogo com bola;0;Frio;0;0
+A004;Sonia;62;F;2025-08-18;Segunda-feira;07:00;Caminhada;1;Frio;48;5
+A004;Sonia;62;F;2025-08-20;Quarta-feira;07:00;Alongamento;1;Nublado;60;4
+A004;Sonia;62;F;2025-08-22;Sexta-feira;07:00;Gin stica;1;Nublado;43;3
+A004;Sonia;62;F;2025-08-25;Segunda-feira;07:00;Caminhada;1;Frio;56;3
+A004;Sonia;62;F;2025-08-27;Quarta-feira;07:00;Jogo com bola;0;Frio;0;0
+A004;Sonia;62;F;2025-08-29;Sexta-feira;07:00;Caminhada;1;Frio;59;3
+A004;Sonia;62;F;2025-09-01;Segunda-feira;07:00;Gin stica;1;Nublado;0;0
+A004;Sonia;62;F;2025-09-03;Quarta-feira;07:00;Alongamento;0;Nublado;0;0
+A004;Sonia;62;F;2025-09-05;Sexta-feira;07:00;Jogo com bola;1;Ensolarado;0;0
+A004;Sonia;62;F;2025-09-08;Segunda-feira;07:00;Gin stica;1;Nublado;48;4
+A004;Sonia;62;F;2025-09-10;Quarta-feira;07:00;Alongamento;1;Frio;44;5
+A004;Sonia;62;F;2025-09-12;Sexta-feira;07:00;Caminhada;1;Frio;36;5
+A004;Sonia;62;F;2025-09-15;Segunda-feira;07:00;Gin stica;1;Nublado;46;4
+A004;Sonia;62;F;2025-09-17;Quarta-feira;07:00;Jogo com bola;1;Frio;52;4
+A004;Sonia;62;F;2025-09-19;Sexta-feira;07:00;Alongamento;0;Nublado;0;0
+A004;Sonia;62;F;2025-09-22;Segunda-feira;07:00;Gin stica;1;Ensolarado;46;5
+A004;Sonia;62;F;2025-09-24;Quarta-feira;07:00;Jogo com bola;0;Frio;0;0
+A004;Sonia;62;F;2025-09-26;Sexta-feira;07:00;Alongamento;1;Frio;37;4
+A004;Sonia;62;F;2025-09-29;Segunda-feira;07:00;Gin stica;0;Nublado;0;0
+A005;Tania Maria;75;F;2025-08-01;Sexta-feira;07:00;Caminhada;0;Frio;0;0
+A005;Tania Maria;75;F;2025-08-04;Segunda-feira;07:00;Gin stica;0;Frio;0;0
+A005;Tania Maria;75;F;2025-08-06;Quarta-feira;07:00;Alongamento;1;Frio;39;5
+A005;Tania Maria;75;F;2025-08-08;Sexta-feira;07:00;Jogo com bola;1;Frio;43;4
+A005;Tania Maria;75;F;2025-08-11;Segunda-feira;07:00;Gin stica;0;Frio;0;0
+A005;Tania Maria;75;F;2025-08-13;Quarta-feira;07:00;Alongamento;0;Frio;0;0
+A005;Tania Maria;75;F;2025-08-15;Sexta-feira;07:00;Jogo com bola;1;Frio;21;4
+A005;Tania Maria;75;F;2025-08-18;Segunda-feira;07:00;Caminhada;0;Frio;0;0
+A005;Tania Maria;75;F;2025-08-20;Quarta-feira;07:00;Alongamento;1;Nublado;45;4
+A005;Tania Maria;75;F;2025-08-22;Sexta-feira;07:00;Gin stica;1;Nublado;26;5
+A005;Tania Maria;75;F;2025-08-25;Segunda-feira;07:00;Caminhada;1;Frio;41;3
+A005;Tania Maria;75;F;2025-08-27;Quarta-feira;07:00;Jogo com bola;1;Frio;36;5
+A005;Tania Maria;75;F;2025-08-29;Sexta-feira;07:00;Caminhada;1;Frio;39;3
+A005;Tania Maria;75;F;2025-09-01;Segunda-feira;07:00;Gin stica;1;Nublado;0;0
+A005;Tania Maria;75;F;2025-09-03;Quarta-feira;07:00;Alongamento;0;Nublado;0;0
+A005;Tania Maria;75;F;2025-09-05;Sexta-feira;07:00;Jogo com bola;1;Ensolarado;34;4
+A005;Tania Maria;75;F;2025-09-08;Segunda-feira;07:00;Gin stica;1;Nublado;22;5
+A005;Tania Maria;75;F;2025-09-10;Quarta-feira;07:00;Alongamento;1;Frio;34;4
+A005;Tania Maria;75;F;2025-09-12;Sexta-feira;07:00;Caminhada;0;Frio;0;0
+A005;Tania Maria;75;F;2025-09-15;Segunda-feira;07:00;Gin stica;1;Nublado;50;5
+A005;Tania Maria;75;F;2025-09-17;Quarta-feira;07:00;Jogo com bola;1;Frio;46;4
+A005;Tania Maria;75;F;2025-09-19;Sexta-feira;07:00;Alongamento;0;Nublado;0;0
+A005;Tania Maria;75;F;2025-09-22;Segunda-feira;07:00;Gin stica;1;Ensolarado;53;3
+A005;Tania Maria;75;F;2025-09-24;Quarta-feira;07:00;Jogo com bola;0;Frio;0;0
+A005;Tania Maria;75;F;2025-09-26;Sexta-feira;07:00;Alongamento;1;Frio;50;4
+A005;Tania Maria;75;F;2025-09-29;Segunda-feira;07:00;Gin stica;0;Nublado;0;0
+A006;Teresa;50;F;2025-08-01;Sexta-feira;07:00;Caminhada;1;Frio;52;5
+A006;Teresa;50;F;2025-08-04;Segunda-feira;07:00;Gin stica;0;Frio;0;0
+A006;Teresa;50;F;2025-08-06;Quarta-feira;07:00;Alongamento;0;Frio;0;0
+A006;Teresa;50;F;2025-08-08;Sexta-feira;07:00;Jogo com bola;1;Frio;38;4
+A006;Teresa;50;F;2025-08-11;Segunda-feira;07:00;Gin stica;1;Frio;23;4
+A006;Teresa;50;F;2025-08-13;Quarta-feira;07:00;Alongamento;0;Frio;0;0
+A006;Teresa;50;F;2025-08-15;Sexta-feira;07:00;Jogo com bola;1;Frio;47;5
+A006;Teresa;50;F;2025-08-18;Segunda-feira;07:00;Caminhada;0;Frio;0;0
+A006;Teresa;50;F;2025-08-20;Quarta-feira;07:00;Alongamento;1;Nublado;0;0
+A006;Teresa;50;F;2025-08-22;Sexta-feira;07:00;Gin stica;1;Nublado;26;3
+A006;Teresa;50;F;2025-08-25;Segunda-feira;07:00;Caminhada;1;Frio;44;4
+A006;Teresa;50;F;2025-08-27;Quarta-feira;07:00;Jogo com bola;0;Frio;0;0
+A006;Teresa;50;F;2025-08-29;Sexta-feira;07:00;Caminhada;0;Frio;0;0
+A006;Teresa;50;F;2025-09-01;Segunda-feira;07:00;Gin stica;1;Nublado;0;0
+A006;Teresa;50;F;2025-09-03;Quarta-feira;07:00;Alongamento;1;Nublado;56;3
+A006;Teresa;50;F;2025-09-05;Sexta-feira;07:00;Jogo com bola;1;Ensolarado;50;4
+A006;Teresa;50;F;2025-09-08;Segunda-feira;07:00;Gin stica;1;Nublado;20;4
+A006;Teresa;50;F;2025-09-10;Quarta-feira;07:00;Alongamento;0;Frio;0;0
+A006;Teresa;50;F;2025-09-12;Sexta-feira;07:00;Caminhada;0;Frio;0;0
+A006;Teresa;50;F;2025-09-15;Segunda-feira;07:00;Gin stica;0;Nublado;0;0
+A006;Teresa;50;F;2025-09-17;Quarta-feira;07:00;Jogo com bola;1;Frio;40;5
+A006;Teresa;50;F;2025-09-19;Sexta-feira;07:00;Alongamento;1;Nublado;51;5
+A006;Teresa;50;F;2025-09-22;Segunda-feira;07:00;Gin stica;1;Ensolarado;45;4
+A006;Teresa;50;F;2025-09-24;Quarta-feira;07:00;Jogo com bola;1;Frio;51;3
+A006;Teresa;50;F;2025-09-26;Sexta-feira;07:00;Alongamento;1;Frio;32;5
+A006;Teresa;50;F;2025-09-29;Segunda-feira;07:00;Gin stica;1;Nublado;57;4
+A007;L£cia;65;F;2025-08-01;Sexta-feira;07:00;Caminhada;0;Frio;0;0
+A007;L£cia;65;F;2025-08-04;Segunda-feira;07:00;Gin stica;1;Frio;37;4
+A007;L£cia;65;F;2025-08-06;Quarta-feira;07:00;Alongamento;1;Frio;42;5
+A007;L£cia;65;F;2025-08-08;Sexta-feira;07:00;Jogo com bola;1;Frio;28;3
+A007;L£cia;65;F;2025-08-11;Segunda-feira;07:00;Gin stica;1;Frio;59;5
+A007;L£cia;65;F;2025-08-13;Quarta-feira;07:00;Alongamento;1;Frio;27;4
+A007;L£cia;65;F;2025-08-15;Sexta-feira;07:00;Jogo com bola;1;Frio;37;5
+A007;L£cia;65;F;2025-08-18;Segunda-feira;07:00;Caminhada;1;Frio;32;5
+A007;L£cia;65;F;2025-08-20;Quarta-feira;07:00;Alongamento;1;Nublado;0;0
+A007;L£cia;65;F;2025-08-22;Sexta-feira;07:00;Gin stica;0;Nublado;0;0
+A007;L£cia;65;F;2025-08-25;Segunda-feira;07:00;Caminhada;1;Frio;59;5
+A007;L£cia;65;F;2025-08-27;Quarta-feira;07:00;Jogo com bola;1;Frio;36;5
+A007;L£cia;65;F;2025-08-29;Sexta-feira;07:00;Caminhada;1;Frio;23;3
+A007;L£cia;65;F;2025-09-01;Segunda-feira;07:00;Gin stica;1;Nublado;26;4
+A007;L£cia;65;F;2025-09-03;Quarta-feira;07:00;Alongamento;0;Nublado;0;0
+A007;L£cia;65;F;2025-09-05;Sexta-feira;07:00;Jogo com bola;1;Ensolarado;44;3
+A007;L£cia;65;F;2025-09-08;Segunda-feira;07:00;Gin stica;1;Nublado;40;4
+A007;L£cia;65;F;2025-09-10;Quarta-feira;07:00;Alongamento;1;Frio;28;3
+A007;L£cia;65;F;2025-09-12;Sexta-feira;07:00;Caminhada;1;Frio;40;5
+A007;L£cia;65;F;2025-09-15;Segunda-feira;07:00;Gin stica;1;Nublado;40;3
+A007;L£cia;65;F;2025-09-17;Quarta-feira;07:00;Jogo com bola;0;Frio;0;0
+A007;L£cia;65;F;2025-09-19;Sexta-feira;07:00;Alongamento;1;Nublado;26;5
+A007;L£cia;65;F;2025-09-22;Segunda-feira;07:00;Gin stica;1;Ensolarado;27;3
+A007;L£cia;65;F;2025-09-24;Quarta-feira;07:00;Jogo com bola;0;Frio;0;0
+A007;L£cia;65;F;2025-09-26;Sexta-feira;07:00;Alongamento;0;Frio;0;0
+A007;L£cia;65;F;2025-09-29;Segunda-feira;07:00;Gin stica;1;Nublado;27;5
+A008;Marta;58;F;2025-08-01;Sexta-feira;07:00;Caminhada;1;Frio;35;5
+A008;Marta;58;F;2025-08-04;Segunda-feira;07:00;Gin stica;1;Frio;53;4
+A008;Marta;58;F;2025-08-06;Quarta-feira;07:00;Alongamento;0;Frio;0;0
+A008;Marta;58;F;2025-08-08;Sexta-feira;07:00;Jogo com bola;1;Frio;46;3
+A008;Marta;58;F;2025-08-11;Segunda-feira;07:00;Gin stica;1;Frio;35;5
+A008;Marta;58;F;2025-08-13;Quarta-feira;07:00;Alongamento;0;Frio;0;0
+A008;Marta;58;F;2025-08-15;Sexta-feira;07:00;Jogo com bola;1;Frio;59;4
+A008;Marta;58;F;2025-08-18;Segunda-feira;07:00;Caminhada;0;Frio;0;0
+A008;Marta;58;F;2025-08-20;Quarta-feira;07:00;Alongamento;0;Nublado;0;0
+A008;Marta;58;F;2025-08-22;Sexta-feira;07:00;Gin stica;1;Nublado;41;3
+A008;Marta;58;F;2025-08-25;Segunda-feira;07:00;Caminhada;1;Frio;37;3
+A008;Marta;58;F;2025-08-27;Quarta-feira;07:00;Jogo com bola;1;Frio;50;4
+A008;Marta;58;F;2025-08-29;Sexta-feira;07:00;Caminhada;1;Frio;35;3
+A008;Marta;58;F;2025-09-01;Segunda-feira;07:00;Gin stica;0;Nublado;0;0
+A008;Marta;58;F;2025-09-03;Quarta-feira;07:00;Alongamento;1;Nublado;33;3
+A008;Marta;58;F;2025-09-05;Sexta-feira;07:00;Jogo com bola;1;Ensolarado;0;0
+A008;Marta;58;F;2025-09-08;Segunda-feira;07:00;Gin stica;0;Nublado;0;0
+A008;Marta;58;F;2025-09-10;Quarta-feira;07:00;Alongamento;1;Frio;40;5
+A008;Marta;58;F;2025-09-12;Sexta-feira;07:00;Caminhada;1;Frio;22;5
+A008;Marta;58;F;2025-09-15;Segunda-feira;07:00;Gin stica;1;Nublado;52;4
+A008;Marta;58;F;2025-09-17;Quarta-feira;07:00;Jogo com bola;1;Frio;60;5
+A008;Marta;58;F;2025-09-19;Sexta-feira;07:00;Alongamento;0;Nublado;0;0
+A008;Marta;58;F;2025-09-22;Segunda-feira;07:00;Gin stica;0;Ensolarado;0;0
+A008;Marta;58;F;2025-09-24;Quarta-feira;07:00;Jogo com bola;1;Frio;20;3
+A008;Marta;58;F;2025-09-26;Sexta-feira;07:00;Alongamento;0;Frio;0;0
+A008;Marta;58;F;2025-09-29;Segunda-feira;07:00;Gin stica;1;Nublado;28;3
+A009;F tima;70;F;2025-08-01;Sexta-feira;07:00;Caminhada;0;Frio;0;0
+A009;F tima;70;F;2025-08-04;Segunda-feira;07:00;Gin stica;1;Frio;56;3
+A009;F tima;70;F;2025-08-06;Quarta-feira;07:00;Alongamento;1;Frio;29;3
+A009;F tima;70;F;2025-08-08;Sexta-feira;07:00;Jogo com bola;1;Frio;41;3
+A009;F tima;70;F;2025-08-11;Segunda-feira;07:00;Gin stica;0;Frio;0;0
+A009;F tima;70;F;2025-08-13;Quarta-feira;07:00;Alongamento;1;Frio;51;5
+A009;F tima;70;F;2025-08-15;Sexta-feira;07:00;Jogo com bola;0;Frio;0;0
+A009;F tima;70;F;2025-08-18;Segunda-feira;07:00;Caminhada;0;Frio;0;0
+A009;F tima;70;F;2025-08-20;Quarta-feira;07:00;Alongamento;1;Nublado;33;5
+A009;F tima;70;F;2025-08-22;Sexta-feira;07:00;Gin stica;0;Nublado;0;0
+A009;F tima;70;F;2025-08-25;Segunda-feira;07:00;Caminhada;1;Frio;49;4
+A009;F tima;70;F;2025-08-27;Quarta-feira;07:00;Jogo com bola;0;Frio;0;0
+A009;F tima;70;F;2025-08-29;Sexta-feira;07:00;Caminhada;1;Frio;49;5
+A009;F tima;70;F;2025-09-01;Segunda-feira;07:00;Gin stica;0;Nublado;0;0
+A009;F tima;70;F;2025-09-03;Quarta-feira;07:00;Alongamento;1;Nublado;37;4
+A009;F tima;70;F;2025-09-05;Sexta-feira;07:00;Jogo com bola;1;Ensolarado;23;4
+A009;F tima;70;F;2025-09-08;Segunda-feira;07:00;Gin stica;0;Nublado;0;0
+A009;F tima;70;F;2025-09-10;Quarta-feira;07:00;Alongamento;1;Frio;50;5
+A009;F tima;70;F;2025-09-12;Sexta-feira;07:00;Caminhada;0;Frio;0;0
+A009;F tima;70;F;2025-09-15;Segunda-feira;07:00;Gin stica;0;Nublado;0;0
+A009;F tima;70;F;2025-09-17;Quarta-feira;07:00;Jogo com bola;0;Frio;0;0
+A009;F tima;70;F;2025-09-19;Sexta-feira;07:00;Alongamento;0;Nublado;0;0
+A009;F tima;70;F;2025-09-22;Segunda-feira;07:00;Gin stica;1;Ensolarado;20;5
+A009;F tima;70;F;2025-09-24;Quarta-feira;07:00;Jogo com bola;0;Frio;0;0
+A009;F tima;70;F;2025-09-26;Sexta-feira;07:00;Alongamento;1;Frio;25;4
+A009;F tima;70;F;2025-09-29;Segunda-feira;07:00;Gin stica;1;Nublado;37;5
+A010;Ivone;52;F;2025-08-01;Sexta-feira;07:00;Caminhada;0;Frio;0;0
+A010;Ivone;52;F;2025-08-04;Segunda-feira;07:00;Gin stica;1;Frio;38;4
+A010;Ivone;52;F;2025-08-06;Quarta-feira;07:00;Alongamento;0;Frio;0;0
+A010;Ivone;52;F;2025-08-08;Sexta-feira;07:00;Jogo com bola;0;Frio;0;0
+A010;Ivone;52;F;2025-08-11;Segunda-feira;07:00;Gin stica;1;Frio;43;4
+A010;Ivone;52;F;2025-08-13;Quarta-feira;07:00;Alongamento;0;Frio;0;0
+A010;Ivone;52;F;2025-08-15;Sexta-feira;07:00;Jogo com bola;0;Frio;0;0
+A010;Ivone;52;F;2025-08-18;Segunda-feira;07:00;Caminhada;1;Frio;42;3
+A010;Ivone;52;F;2025-08-20;Quarta-feira;07:00;Alongamento;0;Nublado;0;0
+A010;Ivone;52;F;2025-08-22;Sexta-feira;07:00;Gin stica;1;Nublado;58;5
+A010;Ivone;52;F;2025-08-25;Segunda-feira;07:00;Caminhada;1;Frio;30;5
+A010;Ivone;52;F;2025-08-27;Quarta-feira;07:00;Jogo com bola;1;Frio;47;5
+A010;Ivone;52;F;2025-08-29;Sexta-feira;07:00;Caminhada;1;Frio;57;4
+A010;Ivone;52;F;2025-09-01;Segunda-feira;07:00;Gin stica;1;Nublado;48;3
+A010;Ivone;52;F;2025-09-03;Quarta-feira;07:00;Alongamento;1;Nublado;29;4
+A010;Ivone;52;F;2025-09-05;Sexta-feira;07:00;Jogo com bola;1;Ensolarado;0;0
+A010;Ivone;52;F;2025-09-08;Segunda-feira;07:00;Gin stica;1;Nublado;48;3
+A010;Ivone;52;F;2025-09-10;Quarta-feira;07:00;Alongamento;0;Frio;0;0
+A010;Ivone;52;F;2025-09-12;Sexta-feira;07:00;Caminhada;1;Frio;34;4
+A010;Ivone;52;F;2025-09-15;Segunda-feira;07:00;Gin stica;0;Nublado;0;0
+A010;Ivone;52;F;2025-09-17;Quarta-feira;07:00;Jogo com bola;0;Frio;0;0
+A010;Ivone;52;F;2025-09-19;Sexta-feira;07:00;Alongamento;1;Nublado;57;3
+A010;Ivone;52;F;2025-09-22;Segunda-feira;07:00;Gin stica;0;Ensolarado;0;0
+A010;Ivone;52;F;2025-09-24;Quarta-feira;07:00;Jogo com bola;0;Frio;0;0
+A010;Ivone;52;F;2025-09-26;Sexta-feira;07:00;Alongamento;0;Frio;0;0
+A010;Ivone;52;F;2025-09-29;Segunda-feira;07:00;Gin stica;1;Nublado;40;5
+A011;Maria Lucia;60;F;2025-08-01;Sexta-feira;07:00;Caminhada;1;Frio;21;3
+A011;Maria Lucia;60;F;2025-08-04;Segunda-feira;07:00;Gin stica;0;Frio;0;0
+A011;Maria Lucia;60;F;2025-08-06;Quarta-feira;07:00;Alongamento;0;Frio;0;0
+A011;Maria Lucia;60;F;2025-08-08;Sexta-feira;07:00;Jogo com bola;1;Frio;42;5
+A011;Maria Lucia;60;F;2025-08-11;Segunda-feira;07:00;Gin stica;1;Frio;42;4
+A011;Maria Lucia;60;F;2025-08-13;Quarta-feira;07:00;Alongamento;1;Frio;33;4
+A011;Maria Lucia;60;F;2025-08-15;Sexta-feira;07:00;Jogo com bola;1;Frio;43;5
+A011;Maria Lucia;60;F;2025-08-18;Segunda-feira;07:00;Caminhada;0;Frio;0;0
+A011;Maria Lucia;60;F;2025-08-20;Quarta-feira;07:00;Alongamento;1;Nublado;51;5
+A011;Maria Lucia;60;F;2025-08-22;Sexta-feira;07:00;Gin stica;1;Nublado;23;4
+A011;Maria Lucia;60;F;2025-08-25;Segunda-feira;07:00;Caminhada;1;Frio;31;5
+A011;Maria Lucia;60;F;2025-08-27;Quarta-feira;07:00;Jogo com bola;1;Frio;25;3
+A011;Maria Lucia;60;F;2025-08-29;Sexta-feira;07:00;Caminhada;0;Frio;0;0
+A011;Maria Lucia;60;F;2025-09-01;Segunda-feira;07:00;Gin stica;1;Nublado;30;4
+A011;Maria Lucia;60;F;2025-09-03;Quarta-feira;07:00;Alongamento;0;Nublado;0;0
+A011;Maria Lucia;60;F;2025-09-05;Sexta-feira;07:00;Jogo com bola;1;Ensolarado;33;5
+A011;Maria Lucia;60;F;2025-09-08;Segunda-feira;07:00;Gin stica;1;Nublado;44;4
+A011;Maria Lucia;60;F;2025-09-10;Quarta-feira;07:00;Alongamento;0;Frio;0;0
+A011;Maria Lucia;60;F;2025-09-12;Sexta-feira;07:00;Caminhada;1;Frio;37;3
+A011;Maria Lucia;60;F;2025-09-15;Segunda-feira;07:00;Gin stica;0;Nublado;0;0
+A011;Maria Lucia;60;F;2025-09-17;Quarta-feira;07:00;Jogo com bola;1;Frio;55;3
+A011;Maria Lucia;60;F;2025-09-19;Sexta-feira;07:00;Alongamento;0;Nublado;0;0
+A011;Maria Lucia;60;F;2025-09-22;Segunda-feira;07:00;Gin stica;1;Ensolarado;47;4
+A011;Maria Lucia;60;F;2025-09-24;Quarta-feira;07:00;Jogo com bola;1;Frio;60;4
+A011;Maria Lucia;60;F;2025-09-26;Sexta-feira;07:00;Alongamento;1;Frio;25;5
+A011;Maria Lucia;60;F;2025-09-29;Segunda-feira;07:00;Gin stica;1;Nublado;35;3
+A012;Sandra;69;F;2025-08-01;Sexta-feira;07:00;Caminhada;1;Frio;34;3
+A012;Sandra;69;F;2025-08-04;Segunda-feira;07:00;Gin stica;0;Frio;0;0
+A012;Sandra;69;F;2025-08-06;Quarta-feira;07:00;Alongamento;1;Frio;38;3
+A012;Sandra;69;F;2025-08-08;Sexta-feira;07:00;Jogo com bola;0;Frio;0;0
+A012;Sandra;69;F;2025-08-11;Segunda-feira;07:00;Gin stica;1;Frio;34;4
+A012;Sandra;69;F;2025-08-13;Quarta-feira;07:00;Alongamento;0;Frio;0;0
+A012;Sandra;69;F;2025-08-15;Sexta-feira;07:00;Jogo com bola;1;Frio;60;3
+A012;Sandra;69;F;2025-08-18;Segunda-feira;07:00;Caminhada;1;Frio;50;5
+A012;Sandra;69;F;2025-08-20;Quarta-feira;07:00;Alongamento;1;Nublado;31;5
+A012;Sandra;69;F;2025-08-22;Sexta-feira;07:00;Gin stica;1;Nublado;49;4
+A012;Sandra;69;F;2025-08-25;Segunda-feira;07:00;Caminhada;0;Frio;0;0
+A012;Sandra;69;F;2025-08-27;Quarta-feira;07:00;Jogo com bola;1;Frio;29;4
+A012;Sandra;69;F;2025-08-29;Sexta-feira;07:00;Caminhada;1;Frio;49;3
+A012;Sandra;69;F;2025-09-01;Segunda-feira;07:00;Gin stica;0;Nublado;0;0
+A012;Sandra;69;F;2025-09-03;Quarta-feira;07:00;Alongamento;1;Nublado;59;3
+A012;Sandra;69;F;2025-09-05;Sexta-feira;07:00;Jogo com bola;1;Ensolarado;48;4
+A012;Sandra;69;F;2025-09-08;Segunda-feira;07:00;Gin stica;1;Nublado;22;5
+A012;Sandra;69;F;2025-09-10;Quarta-feira;07:00;Alongamento;1;Frio;33;4
+A012;Sandra;69;F;2025-09-12;Sexta-feira;07:00;Caminhada;1;Frio;27;3
+A012;Sandra;69;F;2025-09-15;Segunda-feira;07:00;Gin stica;0;Nublado;0;0
+A012;Sandra;69;F;2025-09-17;Quarta-feira;07:00;Jogo com bola;1;Frio;32;4
+A012;Sandra;69;F;2025-09-19;Sexta-feira;07:00;Alongamento;1;Nublado;39;5
+A012;Sandra;69;F;2025-09-22;Segunda-feira;07:00;Gin stica;1;Ensolarado;43;3
+A012;Sandra;69;F;2025-09-24;Quarta-feira;07:00;Jogo com bola;1;Frio;43;5
+A012;Sandra;69;F;2025-09-26;Sexta-feira;07:00;Alongamento;1;Frio;55;4
+A012;Sandra;69;F;2025-09-29;Segunda-feira;07:00;Gin stica;0;Nublado;0;0
+A013;Rosa;73;F;2025-08-01;Sexta-feira;07:00;Caminhada;0;Frio;0;0
+A013;Rosa;73;F;2025-08-04;Segunda-feira;07:00;Gin stica;0;Frio;0;0
+A013;Rosa;73;F;2025-08-06;Quarta-feira;07:00;Alongamento;0;Frio;0;0
+A013;Rosa;73;F;2025-08-08;Sexta-feira;07:00;Jogo com bola;1;Frio;38;4
+A013;Rosa;73;F;2025-08-11;Segunda-feira;07:00;Gin stica;1;Frio;52;5
+A013;Rosa;73;F;2025-08-13;Quarta-feira;07:00;Alongamento;1;Frio;60;3
+A013;Rosa;73;F;2025-08-15;Sexta-feira;07:00;Jogo com bola;0;Frio;0;0
+A013;Rosa;73;F;2025-08-18;Segunda-feira;07:00;Caminhada;1;Frio;50;4
+A013;Rosa;73;F;2025-08-20;Quarta-feira;07:00;Alongamento;0;Nublado;0;0
+A013;Rosa;73;F;2025-08-22;Sexta-feira;07:00;Gin stica;1;Nublado;23;4
+A013;Rosa;73;F;2025-08-25;Segunda-feira;07:00;Caminhada;1;Frio;42;3
+A013;Rosa;73;F;2025-08-27;Quarta-feira;07:00;Jogo com bola;1;Frio;43;4
+A013;Rosa;73;F;2025-08-29;Sexta-feira;07:00;Caminhada;1;Frio;33;3
+A013;Rosa;73;F;2025-09-01;Segunda-feira;07:00;Gin stica;1;Nublado;0;0
+A013;Rosa;73;F;2025-09-03;Quarta-feira;07:00;Alongamento;0;Nublado;0;0
+A013;Rosa;73;F;2025-09-05;Sexta-feira;07:00;Jogo com bola;1;Ensolarado;0;0
+A013;Rosa;73;F;2025-09-08;Segunda-feira;07:00;Gin stica;1;Nublado;47;4
+A013;Rosa;73;F;2025-09-10;Quarta-feira;07:00;Alongamento;0;Frio;0;0
+A013;Rosa;73;F;2025-09-12;Sexta-feira;07:00;Caminhada;1;Frio;22;5
+A013;Rosa;73;F;2025-09-15;Segunda-feira;07:00;Gin stica;0;Nublado;0;0
+A013;Rosa;73;F;2025-09-17;Quarta-feira;07:00;Jogo com bola;1;Frio;34;5
+A013;Rosa;73;F;2025-09-19;Sexta-feira;07:00;Alongamento;1;Nublado;56;3
+A013;Rosa;73;F;2025-09-22;Segunda-feira;07:00;Gin stica;0;Ensolarado;0;0
+A013;Rosa;73;F;2025-09-24;Quarta-feira;07:00;Jogo com bola;0;Frio;0;0
+A013;Rosa;73;F;2025-09-26;Sexta-feira;07:00;Alongamento;0;Frio;0;0
+A013;Rosa;73;F;2025-09-29;Segunda-feira;07:00;Gin stica;1;Nublado;47;5
+A014;Vera;56;F;2025-08-01;Sexta-feira;07:00;Caminhada;0;Frio;0;0
+A014;Vera;56;F;2025-08-04;Segunda-feira;07:00;Gin stica;0;Frio;0;0
+A014;Vera;56;F;2025-08-06;Quarta-feira;07:00;Alongamento;1;Frio;57;3
+A014;Vera;56;F;2025-08-08;Sexta-feira;07:00;Jogo com bola;1;Frio;28;4
+A014;Vera;56;F;2025-08-11;Segunda-feira;07:00;Gin stica;1;Frio;56;5
+A014;Vera;56;F;2025-08-13;Quarta-feira;07:00;Alongamento;0;Frio;0;0
+A014;Vera;56;F;2025-08-15;Sexta-feira;07:00;Jogo com bola;1;Frio;56;4
+A014;Vera;56;F;2025-08-18;Segunda-feira;07:00;Caminhada;1;Frio;56;4
+A014;Vera;56;F;2025-08-20;Quarta-feira;07:00;Alongamento;1;Nublado;54;5
+A014;Vera;56;F;2025-08-22;Sexta-feira;07:00;Gin stica;1;Nublado;26;3
+A014;Vera;56;F;2025-08-25;Segunda-feira;07:00;Caminhada;1;Frio;57;5
+A014;Vera;56;F;2025-08-27;Quarta-feira;07:00;Jogo com bola;1;Frio;44;4
+A014;Vera;56;F;2025-08-29;Sexta-feira;07:00;Caminhada;0;Frio;0;0
+A014;Vera;56;F;2025-09-01;Segunda-feira;07:00;Gin stica;1;Nublado;0;0
+A014;Vera;56;F;2025-09-03;Quarta-feira;07:00;Alongamento;1;Nublado;43;4
+A014;Vera;56;F;2025-09-05;Sexta-feira;07:00;Jogo com bola;1;Ensolarado;36;3
+A014;Vera;56;F;2025-09-08;Segunda-feira;07:00;Gin stica;0;Nublado;0;0
+A014;Vera;56;F;2025-09-10;Quarta-feira;07:00;Alongamento;1;Frio;26;5
+A014;Vera;56;F;2025-09-12;Sexta-feira;07:00;Caminhada;1;Frio;60;4
+A014;Vera;56;F;2025-09-15;Segunda-feira;07:00;Gin stica;0;Nublado;0;0
+A014;Vera;56;F;2025-09-17;Quarta-feira;07:00;Jogo com bola;1;Frio;51;3
+A014;Vera;56;F;2025-09-19;Sexta-feira;07:00;Alongamento;0;Nublado;0;0
+A014;Vera;56;F;2025-09-22;Segunda-feira;07:00;Gin stica;0;Ensolarado;0;0
+A014;Vera;56;F;2025-09-24;Quarta-feira;07:00;Jogo com bola;0;Frio;0;0
+A014;Vera;56;F;2025-09-26;Sexta-feira;07:00;Alongamento;0;Frio;0;0
+A014;Vera;56;F;2025-09-29;Segunda-feira;07:00;Gin stica;1;Nublado;37;3
+A015;Beatriz;61;F;2025-08-01;Sexta-feira;07:00;Caminhada;1;Frio;24;5
+A015;Beatriz;61;F;2025-08-04;Segunda-feira;07:00;Gin stica;0;Frio;0;0
+A015;Beatriz;61;F;2025-08-06;Quarta-feira;07:00;Alongamento;1;Frio;21;4
+A015;Beatriz;61;F;2025-08-08;Sexta-feira;07:00;Jogo com bola;1;Frio;44;4
+A015;Beatriz;61;F;2025-08-11;Segunda-feira;07:00;Gin stica;0;Frio;0;0
+A015;Beatriz;61;F;2025-08-13;Quarta-feira;07:00;Alongamento;0;Frio;0;0
+A015;Beatriz;61;F;2025-08-15;Sexta-feira;07:00;Jogo com bola;1;Frio;51;5
+A015;Beatriz;61;F;2025-08-18;Segunda-feira;07:00;Caminhada;1;Frio;26;5
+A015;Beatriz;61;F;2025-08-20;Quarta-feira;07:00;Alongamento;1;Nublado;27;3
+A015;Beatriz;61;F;2025-08-22;Sexta-feira;07:00;Gin stica;1;Nublado;40;5
+A015;Beatriz;61;F;2025-08-25;Segunda-feira;07:00;Caminhada;1;Frio;53;3
+A015;Beatriz;61;F;2025-08-27;Quarta-feira;07:00;Jogo com bola;1;Frio;58;3
+A015;Beatriz;61;F;2025-08-29;Sexta-feira;07:00;Caminhada;0;Frio;0;0
+A015;Beatriz;61;F;2025-09-01;Segunda-feira;07:00;Gin stica;1;Nublado;49;5
+A015;Beatriz;61;F;2025-09-03;Quarta-feira;07:00;Alongamento;0;Nublado;0;0
+A015;Beatriz;61;F;2025-09-05;Sexta-feira;07:00;Jogo com bola;1;Ensolarado;57;3
+A015;Beatriz;61;F;2025-09-08;Segunda-feira;07:00;Gin stica;0;Nublado;0;0
+A015;Beatriz;61;F;2025-09-10;Quarta-feira;07:00;Alongamento;1;Frio;56;3
+A015;Beatriz;61;F;2025-09-12;Sexta-feira;07:00;Caminhada;0;Frio;0;0
+A015;Beatriz;61;F;2025-09-15;Segunda-feira;07:00;Gin stica;1;Nublado;29;3
+A015;Beatriz;61;F;2025-09-17;Quarta-feira;07:00;Jogo com bola;1;Frio;35;5
+A015;Beatriz;61;F;2025-09-19;Sexta-feira;07:00;Alongamento;1;Nublado;51;5
+A015;Beatriz;61;F;2025-09-22;Segunda-feira;07:00;Gin stica;1;Ensolarado;32;5
+A015;Beatriz;61;F;2025-09-24;Quarta-feira;07:00;Jogo com bola;0;Frio;0;0
+A015;Beatriz;61;F;2025-09-26;Sexta-feira;07:00;Alongamento;1;Frio;47;3
+A015;Beatriz;61;F;2025-09-29;Segunda-feira;07:00;Gin stica;0;Nublado;0;0
+A016;Adelaide;74;F;2025-08-01;Sexta-feira;07:00;Caminhada;0;Frio;0;0
+A016;Adelaide;74;F;2025-08-04;Segunda-feira;07:00;Gin stica;1;Frio;39;3
+A016;Adelaide;74;F;2025-08-06;Quarta-feira;07:00;Alongamento;1;Frio;56;5
+A016;Adelaide;74;F;2025-08-08;Sexta-feira;07:00;Jogo com bola;0;Frio;0;0
+A016;Adelaide;74;F;2025-08-11;Segunda-feira;07:00;Gin stica;1;Frio;42;3
+A016;Adelaide;74;F;2025-08-13;Quarta-feira;07:00;Alongamento;0;Frio;0;0
+A016;Adelaide;74;F;2025-08-15;Sexta-feira;07:00;Jogo com bola;1;Frio;36;4
+A016;Adelaide;74;F;2025-08-18;Segunda-feira;07:00;Caminhada;1;Frio;35;3
+A016;Adelaide;74;F;2025-08-20;Quarta-feira;07:00;Alongamento;1;Nublado;22;3
+A016;Adelaide;74;F;2025-08-22;Sexta-feira;07:00;Gin stica;1;Nublado;38;3
+A016;Adelaide;74;F;2025-08-25;Segunda-feira;07:00;Caminhada;0;Frio;0;0
+A016;Adelaide;74;F;2025-08-27;Quarta-feira;07:00;Jogo com bola;0;Frio;0;0
+A016;Adelaide;74;F;2025-08-29;Sexta-feira;07:00;Caminhada;1;Frio;55;3
+A016;Adelaide;74;F;2025-09-01;Segunda-feira;07:00;Gin stica;1;Nublado;45;4
+A016;Adelaide;74;F;2025-09-03;Quarta-feira;07:00;Alongamento;0;Nublado;0;0
+A016;Adelaide;74;F;2025-09-05;Sexta-feira;07:00;Jogo com bola;1;Ensolarado;0;0
+A016;Adelaide;74;F;2025-09-08;Segunda-feira;07:00;Gin stica;1;Nublado;41;3
+A016;Adelaide;74;F;2025-09-10;Quarta-feira;07:00;Alongamento;1;Frio;51;4
+A016;Adelaide;74;F;2025-09-12;Sexta-feira;07:00;Caminhada;1;Frio;58;4
+A016;Adelaide;74;F;2025-09-15;Segunda-feira;07:00;Gin stica;1;Nublado;46;4
+A016;Adelaide;74;F;2025-09-17;Quarta-feira;07:00;Jogo com bola;0;Frio;0;0
+A016;Adelaide;74;F;2025-09-19;Sexta-feira;07:00;Alongamento;1;Nublado;60;4
+A016;Adelaide;74;F;2025-09-22;Segunda-feira;07:00;Gin stica;0;Ensolarado;0;0
+A016;Adelaide;74;F;2025-09-24;Quarta-feira;07:00;Jogo com bola;1;Frio;47;4
+A016;Adelaide;74;F;2025-09-26;Sexta-feira;07:00;Alongamento;0;Frio;0;0
+A016;Adelaide;74;F;2025-09-29;Segunda-feira;07:00;Gin stica;0;Nublado;0;0
+A017;Neusa;51;F;2025-08-01;Sexta-feira;07:00;Caminhada;1;Frio;21;4
+A017;Neusa;51;F;2025-08-04;Segunda-feira;07:00;Gin stica;0;Frio;0;0
+A017;Neusa;51;F;2025-08-06;Quarta-feira;07:00;Alongamento;1;Frio;25;5
+A017;Neusa;51;F;2025-08-08;Sexta-feira;07:00;Jogo com bola;1;Frio;39;3
+A017;Neusa;51;F;2025-08-11;Segunda-feira;07:00;Gin stica;1;Frio;53;4
+A017;Neusa;51;F;2025-08-13;Quarta-feira;07:00;Alongamento;1;Frio;57;4
+A017;Neusa;51;F;2025-08-15;Sexta-feira;07:00;Jogo com bola;1;Frio;33;3
+A017;Neusa;51;F;2025-08-18;Segunda-feira;07:00;Caminhada;1;Frio;37;5
+A017;Neusa;51;F;2025-08-20;Quarta-feira;07:00;Alongamento;0;Nublado;0;0
+A017;Neusa;51;F;2025-08-22;Sexta-feira;07:00;Gin stica;1;Nublado;22;3
+A017;Neusa;51;F;2025-08-25;Segunda-feira;07:00;Caminhada;1;Frio;48;3
+A017;Neusa;51;F;2025-08-27;Quarta-feira;07:00;Jogo com bola;0;Frio;0;0
+A017;Neusa;51;F;2025-08-29;Sexta-feira;07:00;Caminhada;0;Frio;0;0
+A017;Neusa;51;F;2025-09-01;Segunda-feira;07:00;Gin stica;1;Nublado;22;5
+A017;Neusa;51;F;2025-09-03;Quarta-feira;07:00;Alongamento;0;Nublado;0;0
+A017;Neusa;51;F;2025-09-05;Sexta-feira;07:00;Jogo com bola;1;Ensolarado;22;3
+A017;Neusa;51;F;2025-09-08;Segunda-feira;07:00;Gin stica;1;Nublado;45;4
+A017;Neusa;51;F;2025-09-10;Quarta-feira;07:00;Alongamento;0;Frio;0;0
+A017;Neusa;51;F;2025-09-12;Sexta-feira;07:00;Caminhada;1;Frio;25;4
+A017;Neusa;51;F;2025-09-15;Segunda-feira;07:00;Gin stica;1;Nublado;24;4
+A017;Neusa;51;F;2025-09-17;Quarta-feira;07:00;Jogo com bola;0;Frio;0;0
+A017;Neusa;51;F;2025-09-19;Sexta-feira;07:00;Alongamento;1;Nublado;47;3
+A017;Neusa;51;F;2025-09-22;Segunda-feira;07:00;Gin stica;0;Ensolarado;0;0
+A017;Neusa;51;F;2025-09-24;Quarta-feira;07:00;Jogo com bola;1;Frio;39;5
+A017;Neusa;51;F;2025-09-26;Sexta-feira;07:00;Alongamento;1;Frio;28;3
+A017;Neusa;51;F;2025-09-29;Segunda-feira;07:00;Gin stica;0;Nublado;0;0
+A018;Elaine;64;F;2025-08-01;Sexta-feira;07:00;Caminhada;1;Frio;53;5
+A018;Elaine;64;F;2025-08-04;Segunda-feira;07:00;Gin stica;1;Frio;44;3
+A018;Elaine;64;F;2025-08-06;Quarta-feira;07:00;Alongamento;1;Frio;36;3
+A018;Elaine;64;F;2025-08-08;Sexta-feira;07:00;Jogo com bola;1;Frio;41;3
+A018;Elaine;64;F;2025-08-11;Segunda-feira;07:00;Gin stica;1;Frio;40;5
+A018;Elaine;64;F;2025-08-13;Quarta-feira;07:00;Alongamento;1;Frio;58;4
+A018;Elaine;64;F;2025-08-15;Sexta-feira;07:00;Jogo com bola;1;Frio;36;3
+A018;Elaine;64;F;2025-08-18;Segunda-feira;07:00;Caminhada;1;Frio;51;5
+A018;Elaine;64;F;2025-08-20;Quarta-feira;07:00;Alongamento;1;Nublado;34;4
+A018;Elaine;64;F;2025-08-22;Sexta-feira;07:00;Gin stica;0;Nublado;0;0
+A018;Elaine;64;F;2025-08-25;Segunda-feira;07:00;Caminhada;1;Frio;36;5
+A018;Elaine;64;F;2025-08-27;Quarta-feira;07:00;Jogo com bola;0;Frio;0;0
+A018;Elaine;64;F;2025-08-29;Sexta-feira;07:00;Caminhada;1;Frio;40;4
+A018;Elaine;64;F;2025-09-01;Segunda-feira;07:00;Gin stica;0;Nublado;0;0
+A018;Elaine;64;F;2025-09-03;Quarta-feira;07:00;Alongamento;0;Nublado;0;0
+A018;Elaine;64;F;2025-09-05;Sexta-feira;07:00;Jogo com bola;0;Ensolarado;0;0
+A018;Elaine;64;F;2025-09-08;Segunda-feira;07:00;Gin stica;1;Nublado;54;5
+A018;Elaine;64;F;2025-09-10;Quarta-feira;07:00;Alongamento;1;Frio;22;3
+A018;Elaine;64;F;2025-09-12;Sexta-feira;07:00;Caminhada;1;Frio;45;4
+A018;Elaine;64;F;2025-09-15;Segunda-feira;07:00;Gin stica;1;Nublado;55;4
+A018;Elaine;64;F;2025-09-17;Quarta-feira;07:00;Jogo com bola;1;Frio;30;5
+A018;Elaine;64;F;2025-09-19;Sexta-feira;07:00;Alongamento;0;Nublado;0;0
+A018;Elaine;64;F;2025-09-22;Segunda-feira;07:00;Gin stica;1;Ensolarado;44;4
+A018;Elaine;64;F;2025-09-24;Quarta-feira;07:00;Jogo com bola;1;Frio;32;4
+A018;Elaine;64;F;2025-09-26;Sexta-feira;07:00;Alongamento;0;Frio;0;0
+A018;Elaine;64;F;2025-09-29;Segunda-feira;07:00;Gin stica;1;Nublado;40;4
+A019;J£lia;59;F;2025-08-01;Sexta-feira;07:00;Caminhada;1;Frio;32;4
+A019;J£lia;59;F;2025-08-04;Segunda-feira;07:00;Gin stica;0;Frio;0;0
+A019;J£lia;59;F;2025-08-06;Quarta-feira;07:00;Alongamento;1;Frio;41;4
+A019;J£lia;59;F;2025-08-08;Sexta-feira;07:00;Jogo com bola;1;Frio;50;5
+A019;J£lia;59;F;2025-08-11;Segunda-feira;07:00;Gin stica;0;Frio;0;0
+A019;J£lia;59;F;2025-08-13;Quarta-feira;07:00;Alongamento;1;Frio;40;4
+A019;J£lia;59;F;2025-08-15;Sexta-feira;07:00;Jogo com bola;0;Frio;0;0
+A019;J£lia;59;F;2025-08-18;Segunda-feira;07:00;Caminhada;0;Frio;0;0
+A019;J£lia;59;F;2025-08-20;Quarta-feira;07:00;Alongamento;0;Nublado;0;0
+A019;J£lia;59;F;2025-08-22;Sexta-feira;07:00;Gin stica;1;Nublado;0;0
+A019;J£lia;59;F;2025-08-25;Segunda-feira;07:00;Caminhada;1;Frio;45;4
+A019;J£lia;59;F;2025-08-27;Quarta-feira;07:00;Jogo com bola;0;Frio;0;0
+A019;J£lia;59;F;2025-08-29;Sexta-feira;07:00;Caminhada;1;Frio;57;4
+A019;J£lia;59;F;2025-09-01;Segunda-feira;07:00;Gin stica;1;Nublado;0;0
+A019;J£lia;59;F;2025-09-03;Quarta-feira;07:00;Alongamento;0;Nublado;0;0
+A019;J£lia;59;F;2025-09-05;Sexta-feira;07:00;Jogo com bola;0;Ensolarado;0;0
+A019;J£lia;59;F;2025-09-08;Segunda-feira;07:00;Gin stica;1;Nublado;46;5
+A019;J£lia;59;F;2025-09-10;Quarta-feira;07:00;Alongamento;0;Frio;0;0
+A019;J£lia;59;F;2025-09-12;Sexta-feira;07:00;Caminhada;0;Frio;0;0
+A019;J£lia;59;F;2025-09-15;Segunda-feira;07:00;Gin stica;1;Nublado;57;3
+A019;J£lia;59;F;2025-09-17;Quarta-feira;07:00;Jogo com bola;1;Frio;29;4
+A019;J£lia;59;F;2025-09-19;Sexta-feira;07:00;Alongamento;0;Nublado;0;0
+A019;J£lia;59;F;2025-09-22;Segunda-feira;07:00;Gin stica;0;Ensolarado;0;0
+A019;J£lia;59;F;2025-09-24;Quarta-feira;07:00;Jogo com bola;1;Frio;33;3
+A019;J£lia;59;F;2025-09-26;Sexta-feira;07:00;Alongamento;0;Frio;0;0
+A019;J£lia;59;F;2025-09-29;Segunda-feira;07:00;Gin stica;1;Nublado;21;3
+A020;Silvia;67;F;2025-08-01;Sexta-feira;07:00;Caminhada;1;Frio;51;3
+A020;Silvia;67;F;2025-08-04;Segunda-feira;07:00;Gin stica;1;Frio;46;3
+A020;Silvia;67;F;2025-08-06;Quarta-feira;07:00;Alongamento;0;Frio;0;0
+A020;Silvia;67;F;2025-08-08;Sexta-feira;07:00;Jogo com bola;1;Frio;25;5
+A020;Silvia;67;F;2025-08-11;Segunda-feira;07:00;Gin stica;1;Frio;44;5
+A020;Silvia;67;F;2025-08-13;Quarta-feira;07:00;Alongamento;0;Frio;0;0
+A020;Silvia;67;F;2025-08-15;Sexta-feira;07:00;Jogo com bola;0;Frio;0;0
+A020;Silvia;67;F;2025-08-18;Segunda-feira;07:00;Caminhada;1;Frio;52;3
+A020;Silvia;67;F;2025-08-20;Quarta-feira;07:00;Alongamento;1;Nublado;21;3
+A020;Silvia;67;F;2025-08-22;Sexta-feira;07:00;Gin stica;1;Nublado;0;0
+A020;Silvia;67;F;2025-08-25;Segunda-feira;07:00;Caminhada;1;Frio;33;5
+A020;Silvia;67;F;2025-08-27;Quarta-feira;07:00;Jogo com bola;0;Frio;0;0
+A020;Silvia;67;F;2025-08-29;Sexta-feira;07:00;Caminhada;1;Frio;31;5
+A020;Silvia;67;F;2025-09-01;Segunda-feira;07:00;Gin stica;1;Nublado;24;3
+A020;Silvia;67;F;2025-09-03;Quarta-feira;07:00;Alongamento;0;Nublado;0;0
+A020;Silvia;67;F;2025-09-05;Sexta-feira;07:00;Jogo com bola;1;Ensolarado;47;4
+A020;Silvia;67;F;2025-09-08;Segunda-feira;07:00;Gin stica;1;Nublado;41;5
+A020;Silvia;67;F;2025-09-10;Quarta-feira;07:00;Alongamento;1;Frio;47;3
+A020;Silvia;67;F;2025-09-12;Sexta-feira;07:00;Caminhada;0;Frio;0;0
+A020;Silvia;67;F;2025-09-15;Segunda-feira;07:00;Gin stica;1;Nublado;48;5
+A020;Silvia;67;F;2025-09-17;Quarta-feira;07:00;Jogo com bola;0;Frio;0;0
+A020;Silvia;67;F;2025-09-19;Sexta-feira;07:00;Alongamento;1;Nublado;45;5
+A020;Silvia;67;F;2025-09-22;Segunda-feira;07:00;Gin stica;1;Ensolarado;25;3
+A020;Silvia;67;F;2025-09-24;Quarta-feira;07:00;Jogo com bola;1;Frio;59;4
+A020;Silvia;67;F;2025-09-26;Sexta-feira;07:00;Alongamento;0;Frio;0;0
+A020;Silvia;67;F;2025-09-29;Segunda-feira;07:00;Gin stica;0;Nublado;0;0

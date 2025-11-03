@@ -20,6 +20,10 @@
 Existe uma variação na presença das alunas conforme a escolha da atividade, vale entender se não é possível alterar as atividades de menor engajamento.
 
 
+- **Taxa de Presença por Condição Climática**
+ ![atividades-extensionistas-gumendes](img/taxa_presenca_clima.png)
+
+Como de se esperar, em dias mais frios a taxa de presença é menor do que em dias ensolarados ou nublados.
 
 
 

@@ -1,0 +1,281 @@
+﻿data,dia_semana,tipo_exercicio,clima,id_aluna,nome,probabilidade_presenca,probabilidade_falta,previsao,risco
+2025-10-01,Quarta-feira,Caminhada,Ensolarado,A001,Maria,65.3,34.7,Presente,Médio
+2025-10-01,Quarta-feira,Caminhada,Ensolarado,A002,Ana,53.9,46.1,Presente,Médio
+2025-10-01,Quarta-feira,Caminhada,Ensolarado,A003,Helena,59.7,40.3,Presente,Médio
+2025-10-01,Quarta-feira,Caminhada,Ensolarado,A004,Sonia,80.9,19.1,Presente,Baixo
+2025-10-01,Quarta-feira,Caminhada,Ensolarado,A005,Tania Maria,56.6,43.4,Presente,Médio
+2025-10-01,Quarta-feira,Caminhada,Ensolarado,A006,Teresa,55.6,44.4,Presente,Médio
+2025-10-01,Quarta-feira,Caminhada,Ensolarado,A007,Lúcia,61.4,38.6,Presente,Médio
+2025-10-01,Quarta-feira,Caminhada,Ensolarado,A008,Marta,63.3,36.7,Presente,Médio
+2025-10-01,Quarta-feira,Caminhada,Ensolarado,A009,F tima,55.9,44.1,Presente,Médio
+2025-10-01,Quarta-feira,Caminhada,Ensolarado,A010,Ivone,53.8,46.2,Presente,Médio
+2025-10-01,Quarta-feira,Caminhada,Ensolarado,A011,Maria Lucia,70.3,29.7,Presente,Baixo
+2025-10-01,Quarta-feira,Caminhada,Ensolarado,A012,Sandra,67.8,32.2,Presente,Médio
+2025-10-01,Quarta-feira,Caminhada,Ensolarado,A013,Rosa,57.1,42.9,Presente,Médio
+2025-10-01,Quarta-feira,Caminhada,Ensolarado,A014,Vera,52.7,47.3,Presente,Médio
+2025-10-01,Quarta-feira,Caminhada,Ensolarado,A015,Beatriz,70.4,29.6,Presente,Baixo
+2025-10-01,Quarta-feira,Caminhada,Ensolarado,A016,Adelaide,54.5,45.5,Presente,Médio
+2025-10-01,Quarta-feira,Caminhada,Ensolarado,A017,Neusa,72.7,27.3,Presente,Baixo
+2025-10-01,Quarta-feira,Caminhada,Ensolarado,A018,Elaine,74.3,25.7,Presente,Baixo
+2025-10-01,Quarta-feira,Caminhada,Ensolarado,A019,Júlia,57.4,42.6,Presente,Médio
+2025-10-01,Quarta-feira,Caminhada,Ensolarado,A020,Silvia,70.9,29.1,Presente,Baixo
+2025-10-03,Sexta-feira,Gin stica,Ensolarado,A001,Maria,67.5,32.5,Presente,Médio
+2025-10-03,Sexta-feira,Gin stica,Ensolarado,A002,Ana,49.2,50.8,Falta,Médio
+2025-10-03,Sexta-feira,Gin stica,Ensolarado,A003,Helena,68.4,31.6,Presente,Médio
+2025-10-03,Sexta-feira,Gin stica,Ensolarado,A004,Sonia,89.9,10.1,Presente,Baixo
+2025-10-03,Sexta-feira,Gin stica,Ensolarado,A005,Tania Maria,64.1,35.9,Presente,Médio
+2025-10-03,Sexta-feira,Gin stica,Ensolarado,A006,Teresa,73.6,26.4,Presente,Baixo
+2025-10-03,Sexta-feira,Gin stica,Ensolarado,A007,Lúcia,61.3,38.7,Presente,Médio
+2025-10-03,Sexta-feira,Gin stica,Ensolarado,A008,Marta,67.5,32.5,Presente,Médio
+2025-10-03,Sexta-feira,Gin stica,Ensolarado,A009,F tima,72.9,27.1,Presente,Baixo
+2025-10-03,Sexta-feira,Gin stica,Ensolarado,A010,Ivone,63.7,36.3,Presente,Médio
+2025-10-03,Sexta-feira,Gin stica,Ensolarado,A011,Maria Lucia,78.8,21.2,Presente,Baixo
+2025-10-03,Sexta-feira,Gin stica,Ensolarado,A012,Sandra,76.6,23.4,Presente,Baixo
+2025-10-03,Sexta-feira,Gin stica,Ensolarado,A013,Rosa,61.6,38.4,Presente,Médio
+2025-10-03,Sexta-feira,Gin stica,Ensolarado,A014,Vera,62.1,37.9,Presente,Médio
+2025-10-03,Sexta-feira,Gin stica,Ensolarado,A015,Beatriz,82.3,17.7,Presente,Baixo
+2025-10-03,Sexta-feira,Gin stica,Ensolarado,A016,Adelaide,53.8,46.2,Presente,Médio
+2025-10-03,Sexta-feira,Gin stica,Ensolarado,A017,Neusa,70.0,30.0,Presente,Baixo
+2025-10-03,Sexta-feira,Gin stica,Ensolarado,A018,Elaine,75.8,24.2,Presente,Baixo
+2025-10-03,Sexta-feira,Gin stica,Ensolarado,A019,Júlia,66.3,33.7,Presente,Médio
+2025-10-03,Sexta-feira,Gin stica,Ensolarado,A020,Silvia,66.9,33.1,Presente,Médio
+2025-10-06,Segunda-feira,Alongamento,Ensolarado,A001,Maria,65.9,34.1,Presente,Médio
+2025-10-06,Segunda-feira,Alongamento,Ensolarado,A002,Ana,52.1,47.9,Presente,Médio
+2025-10-06,Segunda-feira,Alongamento,Ensolarado,A003,Helena,61.9,38.1,Presente,Médio
+2025-10-06,Segunda-feira,Alongamento,Ensolarado,A004,Sonia,82.1,17.9,Presente,Baixo
+2025-10-06,Segunda-feira,Alongamento,Ensolarado,A005,Tania Maria,58.1,41.9,Presente,Médio
+2025-10-06,Segunda-feira,Alongamento,Ensolarado,A006,Teresa,56.0,44.0,Presente,Médio
+2025-10-06,Segunda-feira,Alongamento,Ensolarado,A007,Lúcia,58.1,41.9,Presente,Médio
+2025-10-06,Segunda-feira,Alongamento,Ensolarado,A008,Marta,67.2,32.8,Presente,Médio
+2025-10-06,Segunda-feira,Alongamento,Ensolarado,A009,F tima,64.2,35.8,Presente,Médio
+2025-10-06,Segunda-feira,Alongamento,Ensolarado,A010,Ivone,47.3,52.7,Falta,Médio
+2025-10-06,Segunda-feira,Alongamento,Ensolarado,A011,Maria Lucia,58.6,41.4,Presente,Médio
+2025-10-06,Segunda-feira,Alongamento,Ensolarado,A012,Sandra,63.6,36.4,Presente,Médio
+2025-10-06,Segunda-feira,Alongamento,Ensolarado,A013,Rosa,57.3,42.7,Presente,Médio
+2025-10-06,Segunda-feira,Alongamento,Ensolarado,A014,Vera,48.5,51.5,Falta,Médio
+2025-10-06,Segunda-feira,Alongamento,Ensolarado,A015,Beatriz,70.9,29.1,Presente,Baixo
+2025-10-06,Segunda-feira,Alongamento,Ensolarado,A016,Adelaide,55.3,44.7,Presente,Médio
+2025-10-06,Segunda-feira,Alongamento,Ensolarado,A017,Neusa,70.5,29.5,Presente,Baixo
+2025-10-06,Segunda-feira,Alongamento,Ensolarado,A018,Elaine,68.9,31.1,Presente,Médio
+2025-10-06,Segunda-feira,Alongamento,Ensolarado,A019,Júlia,55.2,44.8,Presente,Médio
+2025-10-06,Segunda-feira,Alongamento,Ensolarado,A020,Silvia,64.4,35.6,Presente,Médio
+2025-10-08,Quarta-feira,Jogo com bola,Nublado,A001,Maria,80.2,19.8,Presente,Baixo
+2025-10-08,Quarta-feira,Jogo com bola,Nublado,A002,Ana,57.3,42.7,Presente,Médio
+2025-10-08,Quarta-feira,Jogo com bola,Nublado,A003,Helena,66.3,33.7,Presente,Médio
+2025-10-08,Quarta-feira,Jogo com bola,Nublado,A004,Sonia,71.0,29.0,Presente,Baixo
+2025-10-08,Quarta-feira,Jogo com bola,Nublado,A005,Tania Maria,45.7,54.3,Falta,Médio
+2025-10-08,Quarta-feira,Jogo com bola,Nublado,A006,Teresa,53.1,46.9,Presente,Médio
+2025-10-08,Quarta-feira,Jogo com bola,Nublado,A007,Lúcia,62.7,37.3,Presente,Médio
+2025-10-08,Quarta-feira,Jogo com bola,Nublado,A008,Marta,71.1,28.9,Presente,Baixo
+2025-10-08,Quarta-feira,Jogo com bola,Nublado,A009,F tima,41.2,58.8,Falta,Médio
+2025-10-08,Quarta-feira,Jogo com bola,Nublado,A010,Ivone,65.5,34.5,Presente,Médio
+2025-10-08,Quarta-feira,Jogo com bola,Nublado,A011,Maria Lucia,59.4,40.6,Presente,Médio
+2025-10-08,Quarta-feira,Jogo com bola,Nublado,A012,Sandra,54.5,45.5,Presente,Médio
+2025-10-08,Quarta-feira,Jogo com bola,Nublado,A013,Rosa,48.2,51.8,Falta,Médio
+2025-10-08,Quarta-feira,Jogo com bola,Nublado,A014,Vera,60.1,39.9,Presente,Médio
+2025-10-08,Quarta-feira,Jogo com bola,Nublado,A015,Beatriz,61.9,38.1,Presente,Médio
+2025-10-08,Quarta-feira,Jogo com bola,Nublado,A016,Adelaide,45.0,55.0,Falta,Médio
+2025-10-08,Quarta-feira,Jogo com bola,Nublado,A017,Neusa,66.9,33.1,Presente,Médio
+2025-10-08,Quarta-feira,Jogo com bola,Nublado,A018,Elaine,71.2,28.8,Presente,Baixo
+2025-10-08,Quarta-feira,Jogo com bola,Nublado,A019,Júlia,62.4,37.6,Presente,Médio
+2025-10-08,Quarta-feira,Jogo com bola,Nublado,A020,Silvia,77.1,22.9,Presente,Baixo
+2025-10-10,Sexta-feira,Gin stica,Nublado,A001,Maria,75.4,24.6,Presente,Baixo
+2025-10-10,Sexta-feira,Gin stica,Nublado,A002,Ana,53.4,46.6,Presente,Médio
+2025-10-10,Sexta-feira,Gin stica,Nublado,A003,Helena,67.9,32.1,Presente,Médio
+2025-10-10,Sexta-feira,Gin stica,Nublado,A004,Sonia,72.8,27.2,Presente,Baixo
+2025-10-10,Sexta-feira,Gin stica,Nublado,A005,Tania Maria,53.9,46.1,Presente,Médio
+2025-10-10,Sexta-feira,Gin stica,Nublado,A006,Teresa,65.9,34.1,Presente,Médio
+2025-10-10,Sexta-feira,Gin stica,Nublado,A007,Lúcia,68.2,31.8,Presente,Médio
+2025-10-10,Sexta-feira,Gin stica,Nublado,A008,Marta,75.8,24.2,Presente,Baixo
+2025-10-10,Sexta-feira,Gin stica,Nublado,A009,F tima,66.7,33.3,Presente,Médio
+2025-10-10,Sexta-feira,Gin stica,Nublado,A010,Ivone,81.2,18.8,Presente,Baixo
+2025-10-10,Sexta-feira,Gin stica,Nublado,A011,Maria Lucia,74.0,26.0,Presente,Baixo
+2025-10-10,Sexta-feira,Gin stica,Nublado,A012,Sandra,58.2,41.8,Presente,Médio
+2025-10-10,Sexta-feira,Gin stica,Nublado,A013,Rosa,61.3,38.7,Presente,Médio
+2025-10-10,Sexta-feira,Gin stica,Nublado,A014,Vera,79.4,20.6,Presente,Baixo
+2025-10-10,Sexta-feira,Gin stica,Nublado,A015,Beatriz,73.5,26.5,Presente,Baixo
+2025-10-10,Sexta-feira,Gin stica,Nublado,A016,Adelaide,41.1,58.9,Falta,Médio
+2025-10-10,Sexta-feira,Gin stica,Nublado,A017,Neusa,66.8,33.2,Presente,Médio
+2025-10-10,Sexta-feira,Gin stica,Nublado,A018,Elaine,67.8,32.2,Presente,Médio
+2025-10-10,Sexta-feira,Gin stica,Nublado,A019,Júlia,80.7,19.3,Presente,Baixo
+2025-10-10,Sexta-feira,Gin stica,Nublado,A020,Silvia,75.4,24.6,Presente,Baixo
+2025-10-13,Segunda-feira,Alongamento,Ensolarado,A001,Maria,65.9,34.1,Presente,Médio
+2025-10-13,Segunda-feira,Alongamento,Ensolarado,A002,Ana,52.1,47.9,Presente,Médio
+2025-10-13,Segunda-feira,Alongamento,Ensolarado,A003,Helena,61.9,38.1,Presente,Médio
+2025-10-13,Segunda-feira,Alongamento,Ensolarado,A004,Sonia,82.1,17.9,Presente,Baixo
+2025-10-13,Segunda-feira,Alongamento,Ensolarado,A005,Tania Maria,58.1,41.9,Presente,Médio
+2025-10-13,Segunda-feira,Alongamento,Ensolarado,A006,Teresa,56.0,44.0,Presente,Médio
+2025-10-13,Segunda-feira,Alongamento,Ensolarado,A007,Lúcia,58.1,41.9,Presente,Médio
+2025-10-13,Segunda-feira,Alongamento,Ensolarado,A008,Marta,67.2,32.8,Presente,Médio
+2025-10-13,Segunda-feira,Alongamento,Ensolarado,A009,F tima,64.2,35.8,Presente,Médio
+2025-10-13,Segunda-feira,Alongamento,Ensolarado,A010,Ivone,47.3,52.7,Falta,Médio
+2025-10-13,Segunda-feira,Alongamento,Ensolarado,A011,Maria Lucia,58.6,41.4,Presente,Médio
+2025-10-13,Segunda-feira,Alongamento,Ensolarado,A012,Sandra,63.6,36.4,Presente,Médio
+2025-10-13,Segunda-feira,Alongamento,Ensolarado,A013,Rosa,57.3,42.7,Presente,Médio
+2025-10-13,Segunda-feira,Alongamento,Ensolarado,A014,Vera,48.5,51.5,Falta,Médio
+2025-10-13,Segunda-feira,Alongamento,Ensolarado,A015,Beatriz,70.9,29.1,Presente,Baixo
+2025-10-13,Segunda-feira,Alongamento,Ensolarado,A016,Adelaide,55.3,44.7,Presente,Médio
+2025-10-13,Segunda-feira,Alongamento,Ensolarado,A017,Neusa,70.5,29.5,Presente,Baixo
+2025-10-13,Segunda-feira,Alongamento,Ensolarado,A018,Elaine,68.9,31.1,Presente,Médio
+2025-10-13,Segunda-feira,Alongamento,Ensolarado,A019,Júlia,55.2,44.8,Presente,Médio
+2025-10-13,Segunda-feira,Alongamento,Ensolarado,A020,Silvia,64.4,35.6,Presente,Médio
+2025-10-15,Quarta-feira,Caminhada,Ensolarado,A001,Maria,65.3,34.7,Presente,Médio
+2025-10-15,Quarta-feira,Caminhada,Ensolarado,A002,Ana,53.9,46.1,Presente,Médio
+2025-10-15,Quarta-feira,Caminhada,Ensolarado,A003,Helena,59.7,40.3,Presente,Médio
+2025-10-15,Quarta-feira,Caminhada,Ensolarado,A004,Sonia,80.9,19.1,Presente,Baixo
+2025-10-15,Quarta-feira,Caminhada,Ensolarado,A005,Tania Maria,56.6,43.4,Presente,Médio
+2025-10-15,Quarta-feira,Caminhada,Ensolarado,A006,Teresa,55.6,44.4,Presente,Médio
+2025-10-15,Quarta-feira,Caminhada,Ensolarado,A007,Lúcia,61.4,38.6,Presente,Médio
+2025-10-15,Quarta-feira,Caminhada,Ensolarado,A008,Marta,63.3,36.7,Presente,Médio
+2025-10-15,Quarta-feira,Caminhada,Ensolarado,A009,F tima,55.9,44.1,Presente,Médio
+2025-10-15,Quarta-feira,Caminhada,Ensolarado,A010,Ivone,53.8,46.2,Presente,Médio
+2025-10-15,Quarta-feira,Caminhada,Ensolarado,A011,Maria Lucia,70.3,29.7,Presente,Baixo
+2025-10-15,Quarta-feira,Caminhada,Ensolarado,A012,Sandra,67.8,32.2,Presente,Médio
+2025-10-15,Quarta-feira,Caminhada,Ensolarado,A013,Rosa,57.1,42.9,Presente,Médio
+2025-10-15,Quarta-feira,Caminhada,Ensolarado,A014,Vera,52.7,47.3,Presente,Médio
+2025-10-15,Quarta-feira,Caminhada,Ensolarado,A015,Beatriz,70.4,29.6,Presente,Baixo
+2025-10-15,Quarta-feira,Caminhada,Ensolarado,A016,Adelaide,54.5,45.5,Presente,Médio
+2025-10-15,Quarta-feira,Caminhada,Ensolarado,A017,Neusa,72.7,27.3,Presente,Baixo
+2025-10-15,Quarta-feira,Caminhada,Ensolarado,A018,Elaine,74.3,25.7,Presente,Baixo
+2025-10-15,Quarta-feira,Caminhada,Ensolarado,A019,Júlia,57.4,42.6,Presente,Médio
+2025-10-15,Quarta-feira,Caminhada,Ensolarado,A020,Silvia,70.9,29.1,Presente,Baixo
+2025-10-17,Sexta-feira,Jogo com bola,Nublado,A001,Maria,77.7,22.3,Presente,Baixo
+2025-10-17,Sexta-feira,Jogo com bola,Nublado,A002,Ana,57.2,42.8,Presente,Médio
+2025-10-17,Sexta-feira,Jogo com bola,Nublado,A003,Helena,71.3,28.7,Presente,Baixo
+2025-10-17,Sexta-feira,Jogo com bola,Nublado,A004,Sonia,76.7,23.3,Presente,Baixo
+2025-10-17,Sexta-feira,Jogo com bola,Nublado,A005,Tania Maria,51.2,48.8,Presente,Médio
+2025-10-17,Sexta-feira,Jogo com bola,Nublado,A006,Teresa,68.4,31.6,Presente,Médio
+2025-10-17,Sexta-feira,Jogo com bola,Nublado,A007,Lúcia,67.2,32.8,Presente,Médio
+2025-10-17,Sexta-feira,Jogo com bola,Nublado,A008,Marta,76.5,23.5,Presente,Baixo
+2025-10-17,Sexta-feira,Jogo com bola,Nublado,A009,F tima,60.8,39.2,Presente,Médio
+2025-10-17,Sexta-feira,Jogo com bola,Nublado,A010,Ivone,75.8,24.2,Presente,Baixo
+2025-10-17,Sexta-feira,Jogo com bola,Nublado,A011,Maria Lucia,77.3,22.7,Presente,Baixo
+2025-10-17,Sexta-feira,Jogo com bola,Nublado,A012,Sandra,60.1,39.9,Presente,Médio
+2025-10-17,Sexta-feira,Jogo com bola,Nublado,A013,Rosa,60.5,39.5,Presente,Médio
+2025-10-17,Sexta-feira,Jogo com bola,Nublado,A014,Vera,70.3,29.7,Presente,Baixo
+2025-10-17,Sexta-feira,Jogo com bola,Nublado,A015,Beatriz,74.0,26.0,Presente,Baixo
+2025-10-17,Sexta-feira,Jogo com bola,Nublado,A016,Adelaide,44.2,55.8,Falta,Médio
+2025-10-17,Sexta-feira,Jogo com bola,Nublado,A017,Neusa,73.4,26.6,Presente,Baixo
+2025-10-17,Sexta-feira,Jogo com bola,Nublado,A018,Elaine,71.6,28.4,Presente,Baixo
+2025-10-17,Sexta-feira,Jogo com bola,Nublado,A019,Júlia,77.9,22.1,Presente,Baixo
+2025-10-17,Sexta-feira,Jogo com bola,Nublado,A020,Silvia,74.9,25.1,Presente,Baixo
+2025-10-20,Segunda-feira,Caminhada,Frio,A001,Maria,55.4,44.6,Presente,Médio
+2025-10-20,Segunda-feira,Caminhada,Frio,A002,Ana,51.6,48.4,Presente,Médio
+2025-10-20,Segunda-feira,Caminhada,Frio,A003,Helena,52.1,47.9,Presente,Médio
+2025-10-20,Segunda-feira,Caminhada,Frio,A004,Sonia,66.4,33.6,Presente,Médio
+2025-10-20,Segunda-feira,Caminhada,Frio,A005,Tania Maria,50.2,49.8,Presente,Médio
+2025-10-20,Segunda-feira,Caminhada,Frio,A006,Teresa,59.8,40.2,Presente,Médio
+2025-10-20,Segunda-feira,Caminhada,Frio,A007,Lúcia,66.5,33.5,Presente,Médio
+2025-10-20,Segunda-feira,Caminhada,Frio,A008,Marta,68.7,31.3,Presente,Médio
+2025-10-20,Segunda-feira,Caminhada,Frio,A009,F tima,62.9,37.1,Presente,Médio
+2025-10-20,Segunda-feira,Caminhada,Frio,A010,Ivone,57.0,43.0,Presente,Médio
+2025-10-20,Segunda-feira,Caminhada,Frio,A011,Maria Lucia,65.4,34.6,Presente,Médio
+2025-10-20,Segunda-feira,Caminhada,Frio,A012,Sandra,61.3,38.7,Presente,Médio
+2025-10-20,Segunda-feira,Caminhada,Frio,A013,Rosa,56.3,43.7,Presente,Médio
+2025-10-20,Segunda-feira,Caminhada,Frio,A014,Vera,54.1,45.9,Presente,Médio
+2025-10-20,Segunda-feira,Caminhada,Frio,A015,Beatriz,63.5,36.5,Presente,Médio
+2025-10-20,Segunda-feira,Caminhada,Frio,A016,Adelaide,42.7,57.3,Falta,Médio
+2025-10-20,Segunda-feira,Caminhada,Frio,A017,Neusa,59.7,40.3,Presente,Médio
+2025-10-20,Segunda-feira,Caminhada,Frio,A018,Elaine,59.2,40.8,Presente,Médio
+2025-10-20,Segunda-feira,Caminhada,Frio,A019,Júlia,67.9,32.1,Presente,Médio
+2025-10-20,Segunda-feira,Caminhada,Frio,A020,Silvia,66.2,33.8,Presente,Médio
+2025-10-22,Quarta-feira,Alongamento,Frio,A001,Maria,66.9,33.1,Presente,Médio
+2025-10-22,Quarta-feira,Alongamento,Frio,A002,Ana,57.8,42.2,Presente,Médio
+2025-10-22,Quarta-feira,Alongamento,Frio,A003,Helena,60.3,39.7,Presente,Médio
+2025-10-22,Quarta-feira,Alongamento,Frio,A004,Sonia,66.5,33.5,Presente,Médio
+2025-10-22,Quarta-feira,Alongamento,Frio,A005,Tania Maria,44.5,55.5,Falta,Médio
+2025-10-22,Quarta-feira,Alongamento,Frio,A006,Teresa,33.1,66.9,Falta,Alto
+2025-10-22,Quarta-feira,Alongamento,Frio,A007,Lúcia,60.7,39.3,Presente,Médio
+2025-10-22,Quarta-feira,Alongamento,Frio,A008,Marta,64.8,35.2,Presente,Médio
+2025-10-22,Quarta-feira,Alongamento,Frio,A009,F tima,42.6,57.4,Falta,Médio
+2025-10-22,Quarta-feira,Alongamento,Frio,A010,Ivone,40.5,59.5,Falta,Médio
+2025-10-22,Quarta-feira,Alongamento,Frio,A011,Maria Lucia,52.3,47.7,Presente,Médio
+2025-10-22,Quarta-feira,Alongamento,Frio,A012,Sandra,54.6,45.4,Presente,Médio
+2025-10-22,Quarta-feira,Alongamento,Frio,A013,Rosa,45.5,54.5,Falta,Médio
+2025-10-22,Quarta-feira,Alongamento,Frio,A014,Vera,36.9,63.1,Falta,Alto
+2025-10-22,Quarta-feira,Alongamento,Frio,A015,Beatriz,57.6,42.4,Presente,Médio
+2025-10-22,Quarta-feira,Alongamento,Frio,A016,Adelaide,49.3,50.7,Falta,Médio
+2025-10-22,Quarta-feira,Alongamento,Frio,A017,Neusa,62.8,37.2,Presente,Médio
+2025-10-22,Quarta-feira,Alongamento,Frio,A018,Elaine,63.3,36.7,Presente,Médio
+2025-10-22,Quarta-feira,Alongamento,Frio,A019,Júlia,43.1,56.9,Falta,Médio
+2025-10-22,Quarta-feira,Alongamento,Frio,A020,Silvia,69.4,30.6,Presente,Médio
+2025-10-24,Sexta-feira,Gin stica,Nublado,A001,Maria,75.4,24.6,Presente,Baixo
+2025-10-24,Sexta-feira,Gin stica,Nublado,A002,Ana,53.4,46.6,Presente,Médio
+2025-10-24,Sexta-feira,Gin stica,Nublado,A003,Helena,67.9,32.1,Presente,Médio
+2025-10-24,Sexta-feira,Gin stica,Nublado,A004,Sonia,72.8,27.2,Presente,Baixo
+2025-10-24,Sexta-feira,Gin stica,Nublado,A005,Tania Maria,53.9,46.1,Presente,Médio
+2025-10-24,Sexta-feira,Gin stica,Nublado,A006,Teresa,65.9,34.1,Presente,Médio
+2025-10-24,Sexta-feira,Gin stica,Nublado,A007,Lúcia,68.2,31.8,Presente,Médio
+2025-10-24,Sexta-feira,Gin stica,Nublado,A008,Marta,75.8,24.2,Presente,Baixo
+2025-10-24,Sexta-feira,Gin stica,Nublado,A009,F tima,66.7,33.3,Presente,Médio
+2025-10-24,Sexta-feira,Gin stica,Nublado,A010,Ivone,81.2,18.8,Presente,Baixo
+2025-10-24,Sexta-feira,Gin stica,Nublado,A011,Maria Lucia,74.0,26.0,Presente,Baixo
+2025-10-24,Sexta-feira,Gin stica,Nublado,A012,Sandra,58.2,41.8,Presente,Médio
+2025-10-24,Sexta-feira,Gin stica,Nublado,A013,Rosa,61.3,38.7,Presente,Médio
+2025-10-24,Sexta-feira,Gin stica,Nublado,A014,Vera,79.4,20.6,Presente,Baixo
+2025-10-24,Sexta-feira,Gin stica,Nublado,A015,Beatriz,73.5,26.5,Presente,Baixo
+2025-10-24,Sexta-feira,Gin stica,Nublado,A016,Adelaide,41.1,58.9,Falta,Médio
+2025-10-24,Sexta-feira,Gin stica,Nublado,A017,Neusa,66.8,33.2,Presente,Médio
+2025-10-24,Sexta-feira,Gin stica,Nublado,A018,Elaine,67.8,32.2,Presente,Médio
+2025-10-24,Sexta-feira,Gin stica,Nublado,A019,Júlia,80.7,19.3,Presente,Baixo
+2025-10-24,Sexta-feira,Gin stica,Nublado,A020,Silvia,75.4,24.6,Presente,Baixo
+2025-10-27,Segunda-feira,Jogo com bola,Ensolarado,A001,Maria,70.6,29.4,Presente,Baixo
+2025-10-27,Segunda-feira,Jogo com bola,Ensolarado,A002,Ana,55.7,44.3,Presente,Médio
+2025-10-27,Segunda-feira,Jogo com bola,Ensolarado,A003,Helena,70.4,29.6,Presente,Baixo
+2025-10-27,Segunda-feira,Jogo com bola,Ensolarado,A004,Sonia,85.5,14.5,Presente,Baixo
+2025-10-27,Segunda-feira,Jogo com bola,Ensolarado,A005,Tania Maria,60.9,39.1,Presente,Médio
+2025-10-27,Segunda-feira,Jogo com bola,Ensolarado,A006,Teresa,73.1,26.9,Presente,Baixo
+2025-10-27,Segunda-feira,Jogo com bola,Ensolarado,A007,Lúcia,62.5,37.5,Presente,Médio
+2025-10-27,Segunda-feira,Jogo com bola,Ensolarado,A008,Marta,69.7,30.3,Presente,Médio
+2025-10-27,Segunda-feira,Jogo com bola,Ensolarado,A009,F tima,69.4,30.6,Presente,Médio
+2025-10-27,Segunda-feira,Jogo com bola,Ensolarado,A010,Ivone,64.0,36.0,Presente,Médio
+2025-10-27,Segunda-feira,Jogo com bola,Ensolarado,A011,Maria Lucia,74.4,25.6,Presente,Baixo
+2025-10-27,Segunda-feira,Jogo com bola,Ensolarado,A012,Sandra,71.6,28.4,Presente,Baixo
+2025-10-27,Segunda-feira,Jogo com bola,Ensolarado,A013,Rosa,64.5,35.5,Presente,Médio
+2025-10-27,Segunda-feira,Jogo com bola,Ensolarado,A014,Vera,62.7,37.3,Presente,Médio
+2025-10-27,Segunda-feira,Jogo com bola,Ensolarado,A015,Beatriz,77.5,22.5,Presente,Baixo
+2025-10-27,Segunda-feira,Jogo com bola,Ensolarado,A016,Adelaide,54.1,45.9,Presente,Médio
+2025-10-27,Segunda-feira,Jogo com bola,Ensolarado,A017,Neusa,76.8,23.2,Presente,Baixo
+2025-10-27,Segunda-feira,Jogo com bola,Ensolarado,A018,Elaine,74.6,25.4,Presente,Baixo
+2025-10-27,Segunda-feira,Jogo com bola,Ensolarado,A019,Júlia,71.4,28.6,Presente,Baixo
+2025-10-27,Segunda-feira,Jogo com bola,Ensolarado,A020,Silvia,67.0,33.0,Presente,Médio
+2025-10-29,Quarta-feira,Caminhada,Ensolarado,A001,Maria,65.3,34.7,Presente,Médio
+2025-10-29,Quarta-feira,Caminhada,Ensolarado,A002,Ana,53.9,46.1,Presente,Médio
+2025-10-29,Quarta-feira,Caminhada,Ensolarado,A003,Helena,59.7,40.3,Presente,Médio
+2025-10-29,Quarta-feira,Caminhada,Ensolarado,A004,Sonia,80.9,19.1,Presente,Baixo
+2025-10-29,Quarta-feira,Caminhada,Ensolarado,A005,Tania Maria,56.6,43.4,Presente,Médio
+2025-10-29,Quarta-feira,Caminhada,Ensolarado,A006,Teresa,55.6,44.4,Presente,Médio
+2025-10-29,Quarta-feira,Caminhada,Ensolarado,A007,Lúcia,61.4,38.6,Presente,Médio
+2025-10-29,Quarta-feira,Caminhada,Ensolarado,A008,Marta,63.3,36.7,Presente,Médio
+2025-10-29,Quarta-feira,Caminhada,Ensolarado,A009,F tima,55.9,44.1,Presente,Médio
+2025-10-29,Quarta-feira,Caminhada,Ensolarado,A010,Ivone,53.8,46.2,Presente,Médio
+2025-10-29,Quarta-feira,Caminhada,Ensolarado,A011,Maria Lucia,70.3,29.7,Presente,Baixo
+2025-10-29,Quarta-feira,Caminhada,Ensolarado,A012,Sandra,67.8,32.2,Presente,Médio
+2025-10-29,Quarta-feira,Caminhada,Ensolarado,A013,Rosa,57.1,42.9,Presente,Médio
+2025-10-29,Quarta-feira,Caminhada,Ensolarado,A014,Vera,52.7,47.3,Presente,Médio
+2025-10-29,Quarta-feira,Caminhada,Ensolarado,A015,Beatriz,70.4,29.6,Presente,Baixo
+2025-10-29,Quarta-feira,Caminhada,Ensolarado,A016,Adelaide,54.5,45.5,Presente,Médio
+2025-10-29,Quarta-feira,Caminhada,Ensolarado,A017,Neusa,72.7,27.3,Presente,Baixo
+2025-10-29,Quarta-feira,Caminhada,Ensolarado,A018,Elaine,74.3,25.7,Presente,Baixo
+2025-10-29,Quarta-feira,Caminhada,Ensolarado,A019,Júlia,57.4,42.6,Presente,Médio
+2025-10-29,Quarta-feira,Caminhada,Ensolarado,A020,Silvia,70.9,29.1,Presente,Baixo
+2025-10-31,Sexta-feira,Alongamento,Frio,A001,Maria,55.9,44.1,Presente,Médio
+2025-10-31,Sexta-feira,Alongamento,Frio,A002,Ana,47.3,52.7,Falta,Médio
+2025-10-31,Sexta-feira,Alongamento,Frio,A003,Helena,45.9,54.1,Falta,Médio
+2025-10-31,Sexta-feira,Alongamento,Frio,A004,Sonia,65.0,35.0,Presente,Médio
+2025-10-31,Sexta-feira,Alongamento,Frio,A005,Tania Maria,42.6,57.4,Falta,Médio
+2025-10-31,Sexta-feira,Alongamento,Frio,A006,Teresa,42.7,57.3,Falta,Médio
+2025-10-31,Sexta-feira,Alongamento,Frio,A007,Lúcia,55.1,44.9,Presente,Médio
+2025-10-31,Sexta-feira,Alongamento,Frio,A008,Marta,58.4,41.6,Presente,Médio
+2025-10-31,Sexta-feira,Alongamento,Frio,A009,F tima,53.2,46.8,Presente,Médio
+2025-10-31,Sexta-feira,Alongamento,Frio,A010,Ivone,31.8,68.2,Falta,Alto
+2025-10-31,Sexta-feira,Alongamento,Frio,A011,Maria Lucia,49.6,50.4,Falta,Médio
+2025-10-31,Sexta-feira,Alongamento,Frio,A012,Sandra,52.8,47.2,Presente,Médio
+2025-10-31,Sexta-feira,Alongamento,Frio,A013,Rosa,30.3,69.7,Falta,Alto
+2025-10-31,Sexta-feira,Alongamento,Frio,A014,Vera,27.4,72.6,Falta,Alto
+2025-10-31,Sexta-feira,Alongamento,Frio,A015,Beatriz,58.0,42.0,Presente,Médio
+2025-10-31,Sexta-feira,Alongamento,Frio,A016,Adelaide,39.3,60.7,Falta,Alto
+2025-10-31,Sexta-feira,Alongamento,Frio,A017,Neusa,63.5,36.5,Presente,Médio
+2025-10-31,Sexta-feira,Alongamento,Frio,A018,Elaine,53.0,47.0,Presente,Médio
+2025-10-31,Sexta-feira,Alongamento,Frio,A019,Júlia,34.5,65.5,Falta,Alto
+2025-10-31,Sexta-feira,Alongamento,Frio,A020,Silvia,64.7,35.3,Presente,Médio

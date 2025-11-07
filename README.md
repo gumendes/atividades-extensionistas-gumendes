@@ -25,6 +25,18 @@ Existe uma variação na presença das alunas conforme a escolha da atividade, v
 
 Como de se esperar, em dias mais frios a taxa de presença é menor do que em dias ensolarados ou nublados.
 
+- ## 🔍 Dashboard
+
+- O Dashboard demonstra para a professora um painel com a taxa de presença média, e as alunas que estão em risco de não comparecerem às aulas, dando também uma sugestão de mensagem de incentivo:
+
+- ![atividades-extensionistas-gumendes](img/Dash_01.png)
+
+- ![atividades-extensionistas-gumendes](img/Dash_02.png)
+
+- No Painel da Gamificação, é possível ver um ranking com as alunas mais presentes:
+
+- ![atividades-extensionistas-gumendes](img/Dash_03.png)
+
 
 # 📋 Modelo Preditivo
 

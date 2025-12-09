@@ -44,7 +44,11 @@ Como de se esperar, em dias mais frios a taxa de presença é menor do que em di
 
 - Acurácia: 61.54% (representa a proporção de todas as previsões corretas).
 
-  # 📋 Considerações Finais
+# 📋 Apresentação e Participação junto às alunas e professora
+
+
+
+# 📋 Considerações Finais
 
   O Projeto teve como objetivo desmonstrar a aplicação de recursos de ciencia de dados no incentivo e principalmente melhora a adesão de idosos a atividades fisicas.
   A partir das análises exploratórias dos dados, foi possível entender o comportamento das participantes e o que leva à presença no dia a dia, sua satisfação e engajamento com as aulas e atividades propostas. Os gráficos desenvolvidos demonstram padrões de frequencia e de preferencia por determinadas atividades, permitindo identificar quais atividades tem maior participação.

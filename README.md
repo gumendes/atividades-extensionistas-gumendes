@@ -46,6 +46,11 @@ Como de se esperar, em dias mais frios a taxa de presença é menor do que em di
 
 # 📋 Apresentação e Participação junto às alunas e professora
 
+![atividades-extensionistas-gumendes](img/Foto_professora_1.jpeg)
+
+![atividades-extensionistas-gumendes](img/Foto_apresentando_professora_2.jpeg)
+
+![atividades-extensionistas-gumendes](img/video_participação.mp4.jpeg)
 
 
 # 📋 Considerações Finais
